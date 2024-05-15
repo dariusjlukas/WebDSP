@@ -1,0 +1,46 @@
+{
+  "scriptId": "856",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/relational/smaller.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3215, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 746, "endOffset": 2927, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "boolean, boolean",
+      "ranges": [{ "startOffset": 2457, "endOffset": 2472, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumberBigNumber",
+      "ranges": [{ "startOffset": 2502, "endOffset": 2606, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Fraction, Fraction",
+      "ranges": [{ "startOffset": 2634, "endOffset": 2663, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ComplexComplex",
+      "ranges": [{ "startOffset": 2689, "endOffset": 2808, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3013, "endOffset": 3213, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "numberNumber",
+      "ranges": [{ "startOffset": 3112, "endOffset": 3205, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

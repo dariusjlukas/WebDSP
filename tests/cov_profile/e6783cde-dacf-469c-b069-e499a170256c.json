@@ -1,0 +1,51 @@
+{
+  "scriptId": "947",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/pinv.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5325, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 476, "endOffset": 5323, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayMatrix",
+      "ranges": [{ "startOffset": 1252, "endOffset": 2599, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "any",
+      "ranges": [{ "startOffset": 2610, "endOffset": 2730, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_pinv",
+      "ranges": [{ "startOffset": 3003, "endOffset": 3335, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_rref",
+      "ranges": [{ "startOffset": 3691, "endOffset": 4496, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_rankFact",
+      "ranges": [{ "startOffset": 4832, "endOffset": 5113, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_isZero",
+      "ranges": [{ "startOffset": 5116, "endOffset": 5205, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_isZeros",
+      "ranges": [{ "startOffset": 5208, "endOffset": 5321, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

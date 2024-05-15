@@ -1,0 +1,26 @@
+{
+  "scriptId": "1311",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/sparse/csSqr.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4860, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 406, "endOffset": 4858, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "csSqr",
+      "ranges": [{ "startOffset": 1193, "endOffset": 2326, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_vcount",
+      "ranges": [{ "startOffset": 2417, "endOffset": 4856, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

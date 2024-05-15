@@ -1,0 +1,36 @@
+{
+  "scriptId": "797",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/cross.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2663, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 261, "endOffset": 2661, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MatrixMatrix",
+      "ranges": [{ "startOffset": 1405, "endOffset": 1495, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixArray",
+      "ranges": [{ "startOffset": 1518, "endOffset": 1597, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrix",
+      "ranges": [{ "startOffset": 1620, "endOffset": 1699, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_cross",
+      "ranges": [{ "startOffset": 1943, "endOffset": 2659, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

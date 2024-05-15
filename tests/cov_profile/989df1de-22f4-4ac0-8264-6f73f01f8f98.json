@@ -1,0 +1,26 @@
+{
+  "scriptId": "764",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/exp.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1327, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 221, "endOffset": 1325, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Complex",
+      "ranges": [{ "startOffset": 1200, "endOffset": 1249, "count": 4096 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 1266, "endOffset": 1317, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

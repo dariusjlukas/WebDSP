@@ -1,0 +1,36 @@
+{
+  "scriptId": "1308",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/operators.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 9829, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "unwrapParen",
+      "ranges": [{ "startOffset": 5594, "endOffset": 5788, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getPrecedence",
+      "ranges": [{ "startOffset": 6133, "endOffset": 7196, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getAssociativity",
+      "ranges": [{ "startOffset": 7468, "endOffset": 8271, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isAssociativeWith",
+      "ranges": [{ "startOffset": 8514, "endOffset": 9335, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getOperator",
+      "ranges": [{ "startOffset": 9635, "endOffset": 9829, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

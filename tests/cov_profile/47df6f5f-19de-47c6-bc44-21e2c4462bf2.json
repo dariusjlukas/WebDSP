@@ -1,0 +1,11 @@
+{
+  "scriptId": "649",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/entry/dependenciesAny/dependenciesSetCartesian.generated.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 790, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

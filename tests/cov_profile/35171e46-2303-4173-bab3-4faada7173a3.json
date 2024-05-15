@@ -1,0 +1,139 @@
+{
+  "scriptId": "725",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/core/function/typed.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 27791, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_createTyped",
+      "ranges": [{ "startOffset": 2153, "endOffset": 2368, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createTyped",
+      "ranges": [{ "startOffset": 2687, "endOffset": 27252, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "test",
+      "ranges": [{ "startOffset": 3752, "endOffset": 19799, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convert",
+      "ranges": [{ "startOffset": 21708, "endOffset": 22133, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convert",
+      "ranges": [
+        { "startOffset": 22193, "endOffset": 22309, "count": 6529 },
+        { "startOffset": 22235, "endOffset": 22271, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "convert",
+      "ranges": [{ "startOffset": 22372, "endOffset": 22499, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convert",
+      "ranges": [{ "startOffset": 22563, "endOffset": 22779, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convert",
+      "ranges": [{ "startOffset": 22841, "endOffset": 22967, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convert",
+      "ranges": [{ "startOffset": 23028, "endOffset": 23399, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convert",
+      "ranges": [{ "startOffset": 23681, "endOffset": 23846, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convert",
+      "ranges": [{ "startOffset": 23908, "endOffset": 24139, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convert",
+      "ranges": [{ "startOffset": 24200, "endOffset": 24427, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convert",
+      "ranges": [{ "startOffset": 24487, "endOffset": 24710, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convert",
+      "ranges": [{ "startOffset": 24770, "endOffset": 24814, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convert",
+      "ranges": [{ "startOffset": 24877, "endOffset": 24997, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convert",
+      "ranges": [{ "startOffset": 25059, "endOffset": 25176, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convert",
+      "ranges": [{ "startOffset": 25236, "endOffset": 25287, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convert",
+      "ranges": [{ "startOffset": 25345, "endOffset": 25472, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "convert",
+      "ranges": [{ "startOffset": 25530, "endOffset": 25593, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "typed.onMismatch",
+      "ranges": [{ "startOffset": 25854, "endOffset": 26416, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "typed.onMismatch",
+      "ranges": [{ "startOffset": 26671, "endOffset": 27233, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "throwNoBignumber",
+      "ranges": [{ "startOffset": 27255, "endOffset": 27393, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "throwNoComplex",
+      "ranges": [{ "startOffset": 27394, "endOffset": 27533, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "throwNoMatrix",
+      "ranges": [{ "startOffset": 27534, "endOffset": 27654, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "throwNoFraction",
+      "ranges": [{ "startOffset": 27655, "endOffset": 27791, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

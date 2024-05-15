@@ -1,0 +1,11 @@
+{
+  "scriptId": "358",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/@babel/runtime/7.23.9/helpers/extends.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 311, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

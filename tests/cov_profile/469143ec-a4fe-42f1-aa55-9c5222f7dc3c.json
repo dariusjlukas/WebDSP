@@ -1,0 +1,21 @@
+{
+  "scriptId": "1307",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/node/utils/assign.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1760, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assignFactory",
+      "ranges": [{ "startOffset": 142, "endOffset": 1760, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assign",
+      "ranges": [{ "startOffset": 702, "endOffset": 1757, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

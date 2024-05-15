@@ -1,0 +1,21 @@
+{
+  "scriptId": "885",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/trigonometry/atan2.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2696, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 727, "endOffset": 2694, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BigNumber, BigNumber",
+      "ranges": [{ "startOffset": 2477, "endOffset": 2508, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

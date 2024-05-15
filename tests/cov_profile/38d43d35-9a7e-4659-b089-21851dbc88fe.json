@@ -1,0 +1,65 @@
+{
+  "scriptId": "820",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/fft.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4157, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 334, "endOffset": 4155, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Matrix",
+      "ranges": [{ "startOffset": 1003, "endOffset": 1088, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_ndFft",
+      "ranges": [
+        { "startOffset": 1247, "endOffset": 1496, "count": 2 },
+        { "startOffset": 1354, "endOffset": 1495, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1449, "endOffset": 1486, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_1dFft",
+      "ranges": [{ "startOffset": 1715, "endOffset": 2177, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_czt",
+      "ranges": [{ "startOffset": 2368, "endOffset": 3291, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_fft",
+      "ranges": [
+        { "startOffset": 3443, "endOffset": 4153, "count": 1022 },
+        { "startOffset": 3509, "endOffset": 3525, "count": 512 },
+        { "startOffset": 3525, "endOffset": 3988, "count": 510 },
+        { "startOffset": 3715, "endOffset": 3964, "count": 2048 },
+        { "startOffset": 3988, "endOffset": 4079, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3587, "endOffset": 3608, "count": 4096 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3640, "endOffset": 3661, "count": 4096 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

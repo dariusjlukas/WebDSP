@@ -1,0 +1,46 @@
+{
+  "scriptId": "988",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/rationalize.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 25752, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 560, "endOffset": 25750, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_rationalize",
+      "ranges": [{ "startOffset": 3671, "endOffset": 6457, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Node, boolean",
+      "ranges": [{ "startOffset": 6526, "endOffset": 6578, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "polynomial",
+      "ranges": [{ "startOffset": 7553, "endOffset": 9990, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "rulesRationalize",
+      "ranges": [{ "startOffset": 10331, "endOffset": 15643, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "expandPower",
+      "ranges": [{ "startOffset": 16321, "endOffset": 18611, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "polyToCanonical",
+      "ranges": [{ "startOffset": 19737, "endOffset": 25722, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

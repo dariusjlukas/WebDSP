@@ -1,0 +1,11 @@
+{
+  "scriptId": "348",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/entry/pureFunctionsAny.generated.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 34902, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "scriptId": "952",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/decomposition/schur.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1583, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 231, "endOffset": 1581, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Array",
+      "ranges": [{ "startOffset": 990, "endOffset": 1123, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix",
+      "ranges": [{ "startOffset": 1137, "endOffset": 1187, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_schur",
+      "ranges": [{ "startOffset": 1196, "endOffset": 1579, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

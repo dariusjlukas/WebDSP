@@ -1,0 +1,36 @@
+{
+  "scriptId": "949",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/expm.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4565, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 311, "endOffset": 4563, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Matrix",
+      "ranges": [{ "startOffset": 1098, "endOffset": 3150, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "infinityNorm",
+      "ranges": [{ "startOffset": 3159, "endOffset": 3442, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "findParams",
+      "ranges": [{ "startOffset": 3651, "endOffset": 4096, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "errorEstimate",
+      "ranges": [{ "startOffset": 4200, "endOffset": 4561, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

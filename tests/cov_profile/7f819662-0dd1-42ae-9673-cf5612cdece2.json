@@ -1,0 +1,11 @@
+{
+  "scriptId": "315",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 35, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

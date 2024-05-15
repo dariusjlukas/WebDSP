@@ -1,0 +1,36 @@
+{
+  "scriptId": "817",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/transpose.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4160, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 281, "endOffset": 4158, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Array",
+      "ranges": [{ "startOffset": 1019, "endOffset": 1060, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "transposeMatrix",
+      "ranges": [{ "startOffset": 1125, "endOffset": 2160, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_denseTranspose",
+      "ranges": [{ "startOffset": 2163, "endOffset": 2740, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_sparseTranspose",
+      "ranges": [{ "startOffset": 2743, "endOffset": 4156, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "scriptId": "1181",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/embeddedDocs/function/probability/multinomial.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 446, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "scriptId": "936",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/decomposition/lup.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 10519, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 376, "endOffset": 10517, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DenseMatrix",
+      "ranges": [{ "startOffset": 1425, "endOffset": 1483, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix",
+      "ranges": [{ "startOffset": 1503, "endOffset": 1563, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array",
+      "ranges": [{ "startOffset": 1576, "endOffset": 1841, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_denseLUP",
+      "ranges": [{ "startOffset": 1850, "endOffset": 5946, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_sparseLUP",
+      "ranges": [{ "startOffset": 5949, "endOffset": 10515, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

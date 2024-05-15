@@ -1,0 +1,51 @@
+{
+  "scriptId": "776",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/sign.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1914, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 313, "endOffset": 1912, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Complex",
+      "ranges": [{ "startOffset": 1266, "endOffset": 1357, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 1374, "endOffset": 1442, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Fraction",
+      "ranges": [{ "startOffset": 1458, "endOffset": 1522, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1621, "endOffset": 1656, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1629, "endOffset": 1656, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1687, "endOffset": 1903, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1695, "endOffset": 1903, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

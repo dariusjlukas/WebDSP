@@ -1,0 +1,21 @@
+{
+  "scriptId": "818",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/ctranspose.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1017, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 199, "endOffset": 1015, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "any",
+      "ranges": [{ "startOffset": 951, "endOffset": 1007, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

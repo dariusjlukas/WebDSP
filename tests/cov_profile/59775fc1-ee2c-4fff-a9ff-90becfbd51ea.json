@@ -1,0 +1,46 @@
+{
+  "scriptId": "869",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/matrix/Spa.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3606, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [{ "startOffset": 205, "endOffset": 3583, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Spa",
+      "ranges": [{ "startOffset": 472, "endOffset": 721, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Spa.set",
+      "ranges": [{ "startOffset": 1017, "endOffset": 1304, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Spa.get",
+      "ranges": [{ "startOffset": 1328, "endOffset": 1439, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Spa.accumulate",
+      "ranges": [{ "startOffset": 1470, "endOffset": 1764, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Spa.forEach",
+      "ranges": [{ "startOffset": 1792, "endOffset": 2755, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Spa.swap",
+      "ranges": [{ "startOffset": 2780, "endOffset": 3566, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "scriptId": "1268",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/utils/map.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5331, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ObjectWrappingMap",
+      "ranges": [{ "startOffset": 436, "endOffset": 536, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "keys",
+      "ranges": [{ "startOffset": 539, "endOffset": 604, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 607, "endOffset": 674, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "set",
+      "ranges": [{ "startOffset": 677, "endOffset": 768, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "has",
+      "ranges": [{ "startOffset": 771, "endOffset": 838, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "entries",
+      "ranges": [{ "startOffset": 841, "endOffset": 922, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "forEach",
+      "ranges": [{ "startOffset": 925, "endOffset": 1031, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "delete",
+      "ranges": [{ "startOffset": 1034, "endOffset": 1087, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clear",
+      "ranges": [{ "startOffset": 1090, "endOffset": 1168, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get size",
+      "ranges": [{ "startOffset": 1171, "endOffset": 1238, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "PartitionedMap",
+      "ranges": [{ "startOffset": 1778, "endOffset": 1906, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 1909, "endOffset": 1991, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "set",
+      "ranges": [{ "startOffset": 1994, "endOffset": 2142, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "has",
+      "ranges": [{ "startOffset": 2145, "endOffset": 2206, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "keys",
+      "ranges": [{ "startOffset": 2209, "endOffset": 2298, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "entries",
+      "ranges": [{ "startOffset": 2301, "endOffset": 2382, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "forEach",
+      "ranges": [{ "startOffset": 2385, "endOffset": 2491, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "delete",
+      "ranges": [{ "startOffset": 2494, "endOffset": 2585, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clear",
+      "ranges": [{ "startOffset": 2588, "endOffset": 2641, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get size",
+      "ranges": [{ "startOffset": 2644, "endOffset": 2696, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "mapIterator",
+      "ranges": [{ "startOffset": 2812, "endOffset": 3006, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createEmptyMap",
+      "ranges": [{ "startOffset": 3137, "endOffset": 3186, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createMap",
+      "ranges": [{ "startOffset": 3329, "endOffset": 3626, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toObject",
+      "ranges": [{ "startOffset": 3738, "endOffset": 3983, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isMap",
+      "ranges": [{ "startOffset": 4187, "endOffset": 4631, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "assign",
+      "ranges": [{ "startOffset": 4826, "endOffset": 5331, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

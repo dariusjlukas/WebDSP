@@ -1,0 +1,51 @@
+{
+  "scriptId": "824",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/special/zeta.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4825, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 321, "endOffset": 4823, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "number",
+      "ranges": [{ "startOffset": 1523, "endOffset": 1568, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 1585, "endOffset": 1784, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "zetaNumeric",
+      "ranges": [{ "startOffset": 2044, "endOffset": 2376, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "zetaComplex",
+      "ranges": [{ "startOffset": 2440, "endOffset": 2875, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "zeta",
+      "ranges": [{ "startOffset": 3181, "endOffset": 3698, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "d",
+      "ranges": [{ "startOffset": 3911, "endOffset": 4208, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "f",
+      "ranges": [{ "startOffset": 4493, "endOffset": 4821, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

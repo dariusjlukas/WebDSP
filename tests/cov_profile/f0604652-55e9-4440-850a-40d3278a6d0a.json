@@ -1,0 +1,41 @@
+{
+  "scriptId": "1274",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/utils/collection.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5000, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "containsCollections",
+      "ranges": [{ "startOffset": 424, "endOffset": 585, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deepForEach",
+      "ranges": [{ "startOffset": 912, "endOffset": 1203, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deepMap",
+      "ranges": [{ "startOffset": 1713, "endOffset": 2014, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "reduce",
+      "ranges": [{ "startOffset": 2292, "endOffset": 2690, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_reduce",
+      "ranges": [{ "startOffset": 2842, "endOffset": 3408, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "scatter",
+      "ranges": [{ "startOffset": 3452, "endOffset": 5000, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

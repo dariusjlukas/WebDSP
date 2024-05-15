@@ -1,0 +1,56 @@
+{
+  "scriptId": "990",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/signal/freqz.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3657, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 218, "endOffset": 3655, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayArray",
+      "ranges": [{ "startOffset": 1600, "endOffset": 1694, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayArrayArray",
+      "ranges": [{ "startOffset": 1723, "endOffset": 1794, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayArrayNumber",
+      "ranges": [{ "startOffset": 1824, "endOffset": 2010, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixMatrix",
+      "ranges": [{ "startOffset": 2034, "endOffset": 2278, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixMatrixMatrix",
+      "ranges": [{ "startOffset": 2310, "endOffset": 2500, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixMatrixNumber",
+      "ranges": [{ "startOffset": 2532, "endOffset": 2827, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_freqz",
+      "ranges": [{ "startOffset": 2836, "endOffset": 3512, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createBins",
+      "ranges": [{ "startOffset": 3515, "endOffset": 3653, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

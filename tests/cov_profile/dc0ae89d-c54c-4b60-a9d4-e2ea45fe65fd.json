@@ -1,0 +1,46 @@
+{
+  "scriptId": "835",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/divideScalar.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1276, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 193, "endOffset": 1274, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "numberNumber",
+      "ranges": [{ "startOffset": 778, "endOffset": 833, "count": 2048 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ComplexComplex",
+      "ranges": [{ "startOffset": 859, "endOffset": 919, "count": 2048 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BigNumberBigNumber",
+      "ranges": [{ "startOffset": 949, "endOffset": 1013, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FractionFraction",
+      "ranges": [{ "startOffset": 1041, "endOffset": 1103, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Unit, number | Complex | Fraction | BigNumber | Unit",
+      "ranges": [{ "startOffset": 1165, "endOffset": 1186, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "number | Fraction | Complex | BigNumber, Unit",
+      "ranges": [{ "startOffset": 1241, "endOffset": 1266, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

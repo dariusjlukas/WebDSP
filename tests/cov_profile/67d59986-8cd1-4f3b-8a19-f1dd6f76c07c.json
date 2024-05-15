@@ -1,0 +1,76 @@
+{
+  "scriptId": "985",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/resolve.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3870, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 405, "endOffset": 3868, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_resolve",
+      "ranges": [{ "startOffset": 1397, "endOffset": 3023, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Node, Object",
+      "ranges": [{ "startOffset": 3138, "endOffset": 3181, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3432, "endOffset": 3464, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3440, "endOffset": 3464, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3525, "endOffset": 3557, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3533, "endOffset": 3557, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3608, "endOffset": 3659, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3618, "endOffset": 3659, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3712, "endOffset": 3763, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3722, "endOffset": 3763, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3811, "endOffset": 3859, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3819, "endOffset": 3859, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

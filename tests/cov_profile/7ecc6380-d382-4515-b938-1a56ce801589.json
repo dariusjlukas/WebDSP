@@ -1,0 +1,56 @@
+{
+  "scriptId": "746",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/boolean.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2024, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 219, "endOffset": 2022, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_",
+      "ranges": [{ "startOffset": 1226, "endOffset": 1266, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "boolean",
+      "ranges": [{ "startOffset": 1281, "endOffset": 1324, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "number",
+      "ranges": [{ "startOffset": 1338, "endOffset": 1382, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_null",
+      "ranges": [{ "startOffset": 1394, "endOffset": 1439, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 1456, "endOffset": 1511, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "string",
+      "ranges": [{ "startOffset": 1525, "endOffset": 1942, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1984, "endOffset": 2013, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1992, "endOffset": 2013, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

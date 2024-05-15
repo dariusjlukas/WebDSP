@@ -1,0 +1,11 @@
+{
+  "scriptId": "1084",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/embeddedDocs/function/arithmetic/expm1.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 274, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

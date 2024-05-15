@@ -1,0 +1,16 @@
+{
+  "scriptId": "1317",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/plain/number/combinations.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1233, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "combinationsNumber",
+      "ranges": [{ "startOffset": 108, "endOffset": 1184, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

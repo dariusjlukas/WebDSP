@@ -1,0 +1,69 @@
+{
+  "scriptId": "975",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/probability/random.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3520, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 337, "endOffset": 2710, "count": 1 },
+        { "startOffset": 492, "endOffset": 645, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 511, "endOffset": 639, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "typed.",
+      "ranges": [{ "startOffset": 2131, "endOffset": 2150, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "number",
+      "ranges": [{ "startOffset": 2164, "endOffset": 2186, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "number, number",
+      "ranges": [{ "startOffset": 2210, "endOffset": 2241, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array | Matrix",
+      "ranges": [{ "startOffset": 2265, "endOffset": 2298, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array | Matrix, number",
+      "ranges": [{ "startOffset": 2330, "endOffset": 2372, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array | Matrix, number, number",
+      "ranges": [{ "startOffset": 2412, "endOffset": 2461, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_randomMatrix",
+      "ranges": [{ "startOffset": 2470, "endOffset": 2635, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_random",
+      "ranges": [{ "startOffset": 2638, "endOffset": 2708, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2972, "endOffset": 3518, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

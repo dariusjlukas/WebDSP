@@ -1,0 +1,206 @@
+{
+  "scriptId": "837",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/round.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7874, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 814, "endOffset": 7872, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toExponent",
+      "ranges": [{ "startOffset": 1164, "endOffset": 1250, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "number",
+      "ranges": [{ "startOffset": 3029, "endOffset": 3308, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberNumber",
+      "ranges": [{ "startOffset": 3332, "endOffset": 3746, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberBigNumber",
+      "ranges": [{ "startOffset": 3773, "endOffset": 3946, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Complex",
+      "ranges": [{ "startOffset": 3961, "endOffset": 4012, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ComplexNumber",
+      "ranges": [{ "startOffset": 4037, "endOffset": 4162, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ComplexBigNumber",
+      "ranges": [{ "startOffset": 4190, "endOffset": 4357, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 4374, "endOffset": 4684, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumberBigNumber",
+      "ranges": [{ "startOffset": 4714, "endOffset": 5245, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Fraction",
+      "ranges": [{ "startOffset": 5261, "endOffset": 5313, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FractionNumber",
+      "ranges": [{ "startOffset": 5339, "endOffset": 5465, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FractionBigNumber",
+      "ranges": [{ "startOffset": 5494, "endOffset": 5643, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5689, "endOffset": 5815, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5697, "endOffset": 5815, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5865, "endOffset": 5916, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5873, "endOffset": 5916, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5955, "endOffset": 5992, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5963, "endOffset": 5992, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6049, "endOffset": 6202, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6057, "endOffset": 6202, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6262, "endOffset": 6313, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6270, "endOffset": 6313, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6362, "endOffset": 6399, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6370, "endOffset": 6399, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6442, "endOffset": 6559, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6450, "endOffset": 6559, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6620, "endOffset": 6692, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6628, "endOffset": 6692, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6752, "endOffset": 6823, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6760, "endOffset": 6823, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6877, "endOffset": 7001, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6885, "endOffset": 7001, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 7083, "endOffset": 7334, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 7091, "endOffset": 7334, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 7415, "endOffset": 7665, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 7423, "endOffset": 7665, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 7740, "endOffset": 7863, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 7748, "endOffset": 7863, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

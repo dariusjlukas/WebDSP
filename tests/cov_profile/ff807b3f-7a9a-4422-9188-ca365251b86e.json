@@ -1,0 +1,21 @@
+{
+  "scriptId": "979",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/combinatorics/catalan.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1214, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 262, "endOffset": 1212, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "numberBigNumber",
+      "ranges": [{ "startOffset": 946, "endOffset": 1204, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

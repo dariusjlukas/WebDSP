@@ -1,0 +1,31 @@
+{
+  "scriptId": "957",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/statistics/sum.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2304, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 348, "endOffset": 2302, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_",
+      "ranges": [{ "startOffset": 1302, "endOffset": 1469, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_sum",
+      "ranges": [{ "startOffset": 1627, "endOffset": 2122, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_nsumDim",
+      "ranges": [{ "startOffset": 2125, "endOffset": 2300, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

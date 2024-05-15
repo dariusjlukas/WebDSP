@@ -1,0 +1,21 @@
+{
+  "scriptId": "896",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/trigonometry/sinh.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 893, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 224, "endOffset": 891, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Complex | BigNumber",
+      "ranges": [{ "startOffset": 870, "endOffset": 883, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "scriptId": "926",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/node/ParenthesisNode.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4726, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [{ "startOffset": 300, "endOffset": 4687, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ParenthesisNode",
+      "ranges": [{ "startOffset": 584, "endOffset": 789, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get type",
+      "ranges": [{ "startOffset": 794, "endOffset": 831, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get isParenthesisNode",
+      "ranges": [{ "startOffset": 836, "endOffset": 886, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_compile",
+      "ranges": [{ "startOffset": 1707, "endOffset": 1791, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getContent",
+      "ranges": [{ "startOffset": 1905, "endOffset": 1965, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "forEach",
+      "ranges": [{ "startOffset": 2129, "endOffset": 2201, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "map",
+      "ranges": [{ "startOffset": 2505, "endOffset": 2630, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clone",
+      "ranges": [{ "startOffset": 2736, "endOffset": 2799, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_toString",
+      "ranges": [{ "startOffset": 2930, "endOffset": 3170, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toJSON",
+      "ranges": [{ "startOffset": 3262, "endOffset": 3354, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fromJSON",
+      "ranges": [{ "startOffset": 3671, "endOffset": 3741, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_toHTML",
+      "ranges": [{ "startOffset": 3870, "endOffset": 4226, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_toTex",
+      "ranges": [{ "startOffset": 4356, "endOffset": 4605, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

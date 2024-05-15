@@ -1,0 +1,36 @@
+{
+  "scriptId": "912",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/dot.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4564, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 257, "endOffset": 4562, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_validateDim",
+      "ranges": [{ "startOffset": 1145, "endOffset": 1998, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_denseDot",
+      "ranges": [{ "startOffset": 2001, "endOffset": 3786, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_sparseDot",
+      "ranges": [{ "startOffset": 3789, "endOffset": 4446, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_size",
+      "ranges": [{ "startOffset": 4492, "endOffset": 4560, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

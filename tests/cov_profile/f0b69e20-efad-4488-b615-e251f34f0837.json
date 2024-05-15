@@ -1,0 +1,76 @@
+{
+  "scriptId": "948",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/eigs.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 10473, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 859, "endOffset": 10471, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Array",
+      "ranges": [{ "startOffset": 5460, "endOffset": 5517, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayNumberBigNumber",
+      "ranges": [{ "startOffset": 5550, "endOffset": 5663, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array, Object",
+      "ranges": [{ "startOffset": 5669, "endOffset": 5739, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix",
+      "ranges": [{ "startOffset": 5753, "endOffset": 5842, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixNumberBigNumber",
+      "ranges": [{ "startOffset": 5876, "endOffset": 6011, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixObject",
+      "ranges": [{ "startOffset": 6035, "endOffset": 6196, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "doEigs",
+      "ranges": [{ "startOffset": 6205, "endOffset": 7304, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "computeValuesAndVectors",
+      "ranges": [{ "startOffset": 7307, "endOffset": 8104, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isSymmetric",
+      "ranges": [{ "startOffset": 8135, "endOffset": 8439, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isReal",
+      "ranges": [{ "startOffset": 8470, "endOffset": 8752, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "coerceReal",
+      "ranges": [{ "startOffset": 8755, "endOffset": 8907, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "coerceTypes",
+      "ranges": [{ "startOffset": 8965, "endOffset": 10469, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

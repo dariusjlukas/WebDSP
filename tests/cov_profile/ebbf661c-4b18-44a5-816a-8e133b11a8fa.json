@@ -1,0 +1,31 @@
+{
+  "scriptId": "799",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/filter.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2075, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 293, "endOffset": 1659, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MatrixFunction",
+      "ranges": [{ "startOffset": 1399, "endOffset": 1498, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixRegExp",
+      "ranges": [{ "startOffset": 1557, "endOffset": 1651, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_filterCallback",
+      "ranges": [{ "startOffset": 1836, "endOffset": 2075, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

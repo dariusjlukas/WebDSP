@@ -1,0 +1,21 @@
+{
+  "scriptId": "754",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/unit/function/splitUnit.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 799, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 179, "endOffset": 797, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "UnitArray",
+      "ranges": [{ "startOffset": 714, "endOffset": 789, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

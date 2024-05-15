@@ -1,0 +1,11 @@
+{
+  "scriptId": "1235",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/embeddedDocs/function/trigonometry/atan2.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 327, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

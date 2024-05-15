@@ -1,0 +1,71 @@
+{
+  "scriptId": "866",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/matrix/ImmutableDenseMatrix.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7067, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [{ "startOffset": 340, "endOffset": 7044, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ImmutableDenseMatrix",
+      "ranges": [{ "startOffset": 401, "endOffset": 1669, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ImmutableDenseMatrix.subset",
+      "ranges": [{ "startOffset": 2527, "endOffset": 3240, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ImmutableDenseMatrix.set",
+      "ranges": [{ "startOffset": 3693, "endOffset": 3784, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ImmutableDenseMatrix.resize",
+      "ranges": [{ "startOffset": 4424, "endOffset": 4518, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ImmutableDenseMatrix.reshape",
+      "ranges": [{ "startOffset": 4675, "endOffset": 4770, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ImmutableDenseMatrix.clone",
+      "ranges": [{ "startOffset": 4902, "endOffset": 5058, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ImmutableDenseMatrix.toJSON",
+      "ranges": [{ "startOffset": 5183, "endOffset": 5337, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ImmutableDenseMatrix.fromJSON",
+      "ranges": [{ "startOffset": 5655, "endOffset": 5719, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ImmutableDenseMatrix.swapRows",
+      "ranges": [{ "startOffset": 5968, "endOffset": 6064, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ImmutableDenseMatrix.min",
+      "ranges": [{ "startOffset": 6200, "endOffset": 6537, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ImmutableDenseMatrix.max",
+      "ranges": [{ "startOffset": 6673, "endOffset": 7010, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

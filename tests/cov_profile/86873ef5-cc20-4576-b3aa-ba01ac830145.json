@@ -1,0 +1,56 @@
+{
+  "scriptId": "951",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/sylvester.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4200, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 328, "endOffset": 4198, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayMatrixMatrix",
+      "ranges": [{ "startOffset": 1631, "endOffset": 1716, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayArrayMatrix",
+      "ranges": [{ "startOffset": 1746, "endOffset": 1838, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrixArray",
+      "ranges": [{ "startOffset": 1868, "endOffset": 1960, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixArrayMatrix",
+      "ranges": [{ "startOffset": 1991, "endOffset": 2076, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixArrayArray",
+      "ranges": [{ "startOffset": 2106, "endOffset": 2198, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixMatrixArray",
+      "ranges": [{ "startOffset": 2229, "endOffset": 2314, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayArrayArray",
+      "ranges": [{ "startOffset": 2343, "endOffset": 2452, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_sylvester",
+      "ranges": [{ "startOffset": 2461, "endOffset": 4196, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

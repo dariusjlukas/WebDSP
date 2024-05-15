@@ -1,0 +1,16 @@
+{
+  "scriptId": "782",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/dotMultiply.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1968, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 569, "endOffset": 1966, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

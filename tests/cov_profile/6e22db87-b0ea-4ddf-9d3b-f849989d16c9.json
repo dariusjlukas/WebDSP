@@ -1,0 +1,31 @@
+{
+  "scriptId": "758",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/apply.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3031, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 333, "endOffset": 2079, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayMatrixNumberBigNumberFunction",
+      "ranges": [{ "startOffset": 1569, "endOffset": 2071, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_apply",
+      "ranges": [{ "startOffset": 2233, "endOffset": 2695, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_switch",
+      "ranges": [{ "startOffset": 2785, "endOffset": 3031, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

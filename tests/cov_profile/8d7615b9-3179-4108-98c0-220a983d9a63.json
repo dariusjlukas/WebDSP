@@ -1,0 +1,21 @@
+{
+  "scriptId": "943",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/function/help.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2006, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 373, "endOffset": 2004, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "any",
+      "ranges": [{ "startOffset": 1027, "endOffset": 1996, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

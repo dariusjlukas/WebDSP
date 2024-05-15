@@ -1,0 +1,26 @@
+{
+  "scriptId": "825",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/statistics/mode.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2081, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 236, "endOffset": 2079, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_",
+      "ranges": [{ "startOffset": 1159, "endOffset": 1209, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_mode",
+      "ranges": [{ "startOffset": 1349, "endOffset": 2077, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

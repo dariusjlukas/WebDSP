@@ -1,0 +1,11 @@
+{
+  "scriptId": "677",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/entry/dependenciesAny/dependenciesSqrtm.generated.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1160, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

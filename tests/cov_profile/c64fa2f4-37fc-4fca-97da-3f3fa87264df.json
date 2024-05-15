@@ -1,0 +1,41 @@
+{
+  "scriptId": "962",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/statistics/variance.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5721, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 449, "endOffset": 5719, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayMatrix",
+      "ranges": [{ "startOffset": 2908, "endOffset": 2992, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrixNumberBigNumber",
+      "ranges": [{ "startOffset": 3162, "endOffset": 3274, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_",
+      "ranges": [{ "startOffset": 3434, "endOffset": 3506, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_var",
+      "ranges": [{ "startOffset": 4052, "endOffset": 5381, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_varDim",
+      "ranges": [{ "startOffset": 5384, "endOffset": 5717, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "scriptId": "840",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/nthRoots.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3450, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 211, "endOffset": 3448, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "realPos",
+      "ranges": [{ "startOffset": 576, "endOffset": 635, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "imagPos",
+      "ranges": [{ "startOffset": 637, "endOffset": 696, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "realNeg",
+      "ranges": [{ "startOffset": 698, "endOffset": 758, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "imagNeg",
+      "ranges": [{ "startOffset": 760, "endOffset": 820, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_nthComplexRoots",
+      "ranges": [{ "startOffset": 1013, "endOffset": 2359, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Complex",
+      "ranges": [{ "startOffset": 3335, "endOffset": 3399, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

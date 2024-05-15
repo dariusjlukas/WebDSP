@@ -1,0 +1,16 @@
+{
+  "scriptId": "1318",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/utils/product.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 311, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "product",
+      "ranges": [{ "startOffset": 95, "endOffset": 311, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scriptId": "953",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/lyap.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1602, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 214, "endOffset": 1600, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MatrixMatrix",
+      "ranges": [{ "startOffset": 1090, "endOffset": 1183, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrix",
+      "ranges": [{ "startOffset": 1206, "endOffset": 1314, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixArray",
+      "ranges": [{ "startOffset": 1337, "endOffset": 1445, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayArray",
+      "ranges": [{ "startOffset": 1467, "endOffset": 1592, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scriptId": "752",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/matrixFromRows.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2257, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 215, "endOffset": 2255, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Array",
+      "ranges": [{ "startOffset": 997, "endOffset": 1056, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix",
+      "ranges": [{ "startOffset": 1075, "endOffset": 1165, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_createArray",
+      "ranges": [{ "startOffset": 1228, "endOffset": 1717, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "checkVectorTypeAndReturnLength",
+      "ranges": [{ "startOffset": 1720, "endOffset": 2253, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

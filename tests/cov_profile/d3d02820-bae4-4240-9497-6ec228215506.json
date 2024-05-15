@@ -1,0 +1,26 @@
+{
+  "scriptId": "795",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/column.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1665, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 345, "endOffset": 1663, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayNumber",
+      "ranges": [{ "startOffset": 955, "endOffset": 1060, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_column",
+      "ranges": [{ "startOffset": 1258, "endOffset": 1661, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

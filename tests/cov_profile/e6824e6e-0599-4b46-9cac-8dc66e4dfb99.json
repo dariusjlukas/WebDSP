@@ -1,0 +1,64 @@
+{
+  "scriptId": "976",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/probability/randomInt.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2730, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 343, "endOffset": 2728, "count": 1 },
+        { "startOffset": 498, "endOffset": 651, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 517, "endOffset": 645, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "typed.",
+      "ranges": [{ "startOffset": 2110, "endOffset": 2132, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "number",
+      "ranges": [{ "startOffset": 2146, "endOffset": 2171, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "number, number",
+      "ranges": [{ "startOffset": 2195, "endOffset": 2229, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array | Matrix",
+      "ranges": [{ "startOffset": 2253, "endOffset": 2289, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array | Matrix, number",
+      "ranges": [{ "startOffset": 2321, "endOffset": 2366, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array | Matrix, number, number",
+      "ranges": [{ "startOffset": 2406, "endOffset": 2458, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_randomIntMatrix",
+      "ranges": [{ "startOffset": 2467, "endOffset": 2638, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_randomInt",
+      "ranges": [{ "startOffset": 2641, "endOffset": 2726, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

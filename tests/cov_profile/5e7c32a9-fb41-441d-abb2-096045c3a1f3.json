@@ -1,0 +1,41 @@
+{
+  "scriptId": "954",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/divide.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2811, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 436, "endOffset": 2809, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayMatrixArrayMatrix",
+      "ranges": [{ "startOffset": 1864, "endOffset": 2280, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrixAny",
+      "ranges": [{ "startOffset": 2306, "endOffset": 2397, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrixAny",
+      "ranges": [{ "startOffset": 2424, "endOffset": 2517, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayAny",
+      "ranges": [{ "startOffset": 2537, "endOffset": 2675, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "anyArrayMatrix",
+      "ranges": [{ "startOffset": 2704, "endOffset": 2775, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

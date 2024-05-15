@@ -1,0 +1,66 @@
+{
+  "scriptId": "768",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/gcd.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4261, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "is1d",
+      "ranges": [{ "startOffset": 849, "endOffset": 930, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 997, "endOffset": 4259, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Fraction, Fraction",
+      "ranges": [{ "startOffset": 2453, "endOffset": 2471, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2628, "endOffset": 2793, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2636, "endOffset": 2793, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2825, "endOffset": 3100, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2833, "endOffset": 3100, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3133, "endOffset": 3195, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3141, "endOffset": 3195, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_gcdNumber",
+      "ranges": [{ "startOffset": 3377, "endOffset": 3704, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_gcdBigNumber",
+      "ranges": [{ "startOffset": 3893, "endOffset": 4257, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

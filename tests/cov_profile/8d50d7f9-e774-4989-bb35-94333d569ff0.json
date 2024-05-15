@@ -1,0 +1,36 @@
+{
+  "scriptId": "997",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/transform/filter.transform.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2244, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isTransformFunction",
+      "ranges": [{ "startOffset": 456, "endOffset": 1757, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "filterTransform",
+      "ranges": [{ "startOffset": 773, "endOffset": 1312, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixFunction",
+      "ranges": [{ "startOffset": 1479, "endOffset": 1570, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixRegExp",
+      "ranges": [{ "startOffset": 1629, "endOffset": 1723, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_filter",
+      "ranges": [{ "startOffset": 2009, "endOffset": 2244, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

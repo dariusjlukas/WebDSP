@@ -1,0 +1,31 @@
+{
+  "scriptId": "757",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/abs.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1252, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 274, "endOffset": 1250, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Complex | BigNumber | Fraction | Unit",
+      "ranges": [{ "startOffset": 1096, "endOffset": 1108, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1206, "endOffset": 1241, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1214, "endOffset": 1241, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

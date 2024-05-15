@@ -1,0 +1,11 @@
+{
+  "scriptId": "438",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/entry/dependenciesAny/dependenciesCsch.generated.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 364, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

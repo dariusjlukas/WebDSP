@@ -1,0 +1,50 @@
+{
+  "scriptId": "750",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/matrix/function/matrix.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3046, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 214, "endOffset": 3044, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_",
+      "ranges": [{ "startOffset": 1964, "endOffset": 2010, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "string",
+      "ranges": [{ "startOffset": 2024, "endOffset": 2089, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "stringString",
+      "ranges": [{ "startOffset": 2113, "endOffset": 2204, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array",
+      "ranges": [{ "startOffset": 2217, "endOffset": 2273, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Matrix",
+      "ranges": [{ "startOffset": 2287, "endOffset": 2360, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_create",
+      "ranges": [
+        { "startOffset": 2664, "endOffset": 3042, "count": 2 },
+        { "startOffset": 2796, "endOffset": 2819, "count": 1 },
+        { "startOffset": 2874, "endOffset": 3041, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

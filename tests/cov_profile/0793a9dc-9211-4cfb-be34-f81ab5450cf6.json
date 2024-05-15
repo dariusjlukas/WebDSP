@@ -1,0 +1,26 @@
+{
+  "scriptId": "801",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/forEach.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1767, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 298, "endOffset": 1164, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MatrixFunction",
+      "ranges": [{ "startOffset": 1085, "endOffset": 1156, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_forEach",
+      "ranges": [{ "startOffset": 1282, "endOffset": 1767, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

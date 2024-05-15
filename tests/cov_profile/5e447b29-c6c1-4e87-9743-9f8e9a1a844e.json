@@ -1,0 +1,36 @@
+{
+  "scriptId": "933",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/function/evaluate.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2107, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 289, "endOffset": 2105, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "string",
+      "ranges": [{ "startOffset": 1449, "endOffset": 1566, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stringMapObject",
+      "ranges": [{ "startOffset": 1596, "endOffset": 1693, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrix",
+      "ranges": [{ "startOffset": 1717, "endOffset": 1898, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrixMapObject",
+      "ranges": [{ "startOffset": 1936, "endOffset": 2097, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

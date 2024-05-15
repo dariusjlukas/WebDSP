@@ -1,0 +1,81 @@
+{
+  "scriptId": "812",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/rotationMatrix.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6525, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 366, "endOffset": 6523, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_",
+      "ranges": [{ "startOffset": 2150, "endOffset": 2229, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "string",
+      "ranges": [{ "startOffset": 2243, "endOffset": 2303, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberBigNumberComplexUnit",
+      "ranges": [{ "startOffset": 2348, "endOffset": 2488, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberBigNumberComplexUnitString",
+      "ranges": [{ "startOffset": 2541, "endOffset": 2653, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberBigNumberComplexUnitArray",
+      "ranges": [{ "startOffset": 2705, "endOffset": 2886, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberBigNumberComplexUnitMatrix",
+      "ranges": [{ "startOffset": 2939, "endOffset": 3171, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberBigNumberComplexUnitArrayString",
+      "ranges": [{ "startOffset": 3231, "endOffset": 3423, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberBigNumberComplexUnitMatrixString",
+      "ranges": [{ "startOffset": 3484, "endOffset": 3634, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_rotationMatrix2x2",
+      "ranges": [{ "startOffset": 3918, "endOffset": 4241, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_validateVector",
+      "ranges": [{ "startOffset": 4244, "endOffset": 4416, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_mul",
+      "ranges": [{ "startOffset": 4419, "endOffset": 4508, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_convertToFormat",
+      "ranges": [{ "startOffset": 4511, "endOffset": 4829, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_rotationMatrix3x3",
+      "ranges": [{ "startOffset": 5211, "endOffset": 6521, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

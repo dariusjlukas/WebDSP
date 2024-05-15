@@ -1,0 +1,16 @@
+{
+  "scriptId": "1342",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/sparse/csPost.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1171, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "csPost",
+      "ranges": [{ "startOffset": 266, "endOffset": 1171, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

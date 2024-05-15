@@ -1,0 +1,26 @@
+{
+  "scriptId": "879",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/trigonometry/acsch.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1087, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 240, "endOffset": 1085, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Complex",
+      "ranges": [{ "startOffset": 933, "endOffset": 984, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 1001, "endOffset": 1077, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

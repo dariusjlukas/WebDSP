@@ -1,0 +1,26 @@
+{
+  "scriptId": "1364",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/javascript-natural-sort/0.7.1/naturalSort.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2419, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2418, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 194, "endOffset": 2354, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "naturalSort",
+      "ranges": [{ "startOffset": 456, "endOffset": 2349, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

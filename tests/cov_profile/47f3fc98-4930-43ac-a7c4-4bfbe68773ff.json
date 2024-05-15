@@ -1,0 +1,46 @@
+{
+  "scriptId": "1374",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/tiny-emitter/2.1.0/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1918, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 1917, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 194, "endOffset": 1853, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "E",
+      "ranges": [{ "startOffset": 254, "endOffset": 420, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "on",
+      "ranges": [{ "startOffset": 444, "endOffset": 618, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "once",
+      "ranges": [{ "startOffset": 629, "endOffset": 858, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "emit",
+      "ranges": [{ "startOffset": 869, "endOffset": 1144, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "off",
+      "ranges": [{ "startOffset": 1154, "endOffset": 1794, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

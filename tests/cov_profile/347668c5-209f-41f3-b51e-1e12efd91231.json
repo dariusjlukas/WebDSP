@@ -1,0 +1,36 @@
+{
+  "scriptId": "777",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/sqrt.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1892, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 187, "endOffset": 1890, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Complex",
+      "ranges": [{ "startOffset": 1085, "endOffset": 1135, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 1152, "endOffset": 1403, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Unit",
+      "ranges": [{ "startOffset": 1415, "endOffset": 1535, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_sqrtNumber",
+      "ranges": [{ "startOffset": 1689, "endOffset": 1888, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

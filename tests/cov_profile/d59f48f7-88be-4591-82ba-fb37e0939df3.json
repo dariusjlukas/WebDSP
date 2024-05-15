@@ -1,0 +1,16 @@
+{
+  "scriptId": "1350",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/sparse/csFlip.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 257, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "csFlip",
+      "ranges": [{ "startOffset": 198, "endOffset": 257, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

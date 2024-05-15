@@ -1,0 +1,11 @@
+{
+  "scriptId": "1042",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/embeddedDocs/construction/boolean.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 371, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

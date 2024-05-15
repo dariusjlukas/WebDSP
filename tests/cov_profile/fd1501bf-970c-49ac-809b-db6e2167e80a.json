@@ -1,0 +1,16 @@
+{
+  "scriptId": "1343",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/sparse/csEtree.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1649, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "csEtree",
+      "ranges": [{ "startOffset": 343, "endOffset": 1649, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

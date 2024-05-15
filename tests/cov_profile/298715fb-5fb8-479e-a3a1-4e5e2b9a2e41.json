@@ -1,0 +1,66 @@
+{
+  "scriptId": "806",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/diff.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5637, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 295, "endOffset": 5635, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayMatrix",
+      "ranges": [{ "startOffset": 2513, "endOffset": 2722, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrixNumber",
+      "ranges": [{ "startOffset": 2754, "endOffset": 3025, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3081, "endOffset": 3129, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3091, "endOffset": 3129, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3188, "endOffset": 3236, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3198, "endOffset": 3236, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_recursive",
+      "ranges": [{ "startOffset": 3491, "endOffset": 4065, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_diff",
+      "ranges": [{ "startOffset": 4215, "endOffset": 4403, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_ElementDiff",
+      "ranges": [{ "startOffset": 4588, "endOffset": 5142, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_ArrayDiff",
+      "ranges": [{ "startOffset": 5322, "endOffset": 5633, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

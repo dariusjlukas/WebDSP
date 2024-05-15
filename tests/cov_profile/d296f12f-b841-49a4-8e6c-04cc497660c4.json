@@ -1,0 +1,36 @@
+{
+  "scriptId": "793",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/logical/xor.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2351, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 590, "endOffset": 2349, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ComplexComplex",
+      "ranges": [{ "startOffset": 1901, "endOffset": 2010, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumberBigNumber",
+      "ranges": [{ "startOffset": 2040, "endOffset": 2155, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2193, "endOffset": 2243, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2201, "endOffset": 2243, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

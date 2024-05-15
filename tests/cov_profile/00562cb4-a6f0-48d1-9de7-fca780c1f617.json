@@ -1,0 +1,21 @@
+{
+  "scriptId": "992",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/json/replacer.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 899, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 164, "endOffset": 897, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "replacer",
+      "ranges": [{ "startOffset": 596, "endOffset": 894, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "tasks": {
+        "clean": "rm -rf ./tests/cov_profile && rm -f ./tests/cov_profile.lcov",
+        "bench": "deno bench benchmarks/benchmark.ts",
+        "typecheck": "deno check ./tests/dsp.test.ts",
+        "examples": "deno run --allow-hrtime examples/index.ts",
+        "test": "rm -rf ./tests/cov_profile && rm -f ./tests/cov_profile.lcov && deno test --parallel --coverage=./tests/cov_profile ./tests/dsp.test.ts && deno coverage ./tests/cov_profile --html && deno coverage ./tests/cov_profile --lcov --output=./tests/cov_profile.lcov",
+        "view-coverage": "google-chrome ./tests/cov_profile/html/index.html"
+    },
+    "lint": {
+        "include": ["src/", "examples/"],
+        "rules": {
+            "tags": ["recommended"],
+            "include": ["ban-untagged-todo"]
+        }
+    },
+    "fmt": {
+        "useTabs": true,
+        "lineWidth": 80,
+        "indentWidth": 4,
+        "semiColons": true,
+        "singleQuote": true,
+        "proseWrap": "preserve",
+        "include": ["src/", "examples/"]
+    }
+}

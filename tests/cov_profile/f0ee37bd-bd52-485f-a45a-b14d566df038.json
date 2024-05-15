@@ -1,0 +1,31 @@
+{
+  "scriptId": "946",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/inv.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5781, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 399, "endOffset": 5779, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayMatrix",
+      "ranges": [{ "startOffset": 1095, "endOffset": 2268, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "any",
+      "ranges": [{ "startOffset": 2279, "endOffset": 2415, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_inv",
+      "ranges": [{ "startOffset": 2698, "endOffset": 5777, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

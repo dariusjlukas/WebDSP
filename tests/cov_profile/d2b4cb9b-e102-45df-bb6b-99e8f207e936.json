@@ -1,0 +1,36 @@
+{
+  "scriptId": "970",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/probability/factorial.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1282, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 238, "endOffset": 1280, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "number",
+      "ranges": [{ "startOffset": 897, "endOffset": 1032, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 1049, "endOffset": 1200, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1242, "endOffset": 1271, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1250, "endOffset": 1271, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

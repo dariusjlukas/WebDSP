@@ -1,0 +1,41 @@
+{
+  "scriptId": "811",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/rotate.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2993, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 250, "endOffset": 2991, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayNumberBigNumberComplexUnit",
+      "ranges": [{ "startOffset": 1628, "endOffset": 1805, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixNumberBigNumberComplexUnit",
+      "ranges": [{ "startOffset": 1859, "endOffset": 1994, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayNumberBigNumberComplexUnitArrayMatrix",
+      "ranges": [{ "startOffset": 2062, "endOffset": 2246, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixNumberBigNumberComplexUnitArrayMatrix",
+      "ranges": [{ "startOffset": 2315, "endOffset": 2467, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_validateSize",
+      "ranges": [{ "startOffset": 2476, "endOffset": 2989, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "scriptId": "770",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/log10.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1841, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 301, "endOffset": 1839, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "number",
+      "ranges": [{ "startOffset": 1161, "endOffset": 1394, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Complex",
+      "ranges": [{ "startOffset": 1409, "endOffset": 1487, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 1504, "endOffset": 1759, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1801, "endOffset": 1830, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1809, "endOffset": 1830, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "scriptId": "980",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/combinatorics/composition.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1456, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 260, "endOffset": 1454, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "numberBigNumberNumberBigNumber",
+      "ranges": [{ "startOffset": 1031, "endOffset": 1446, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

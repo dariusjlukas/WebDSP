@@ -1,0 +1,39 @@
+{
+  "scriptId": "1365",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/escape-latex/1.2.0/dist/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3051, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 3050, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 194, "endOffset": 2986, "count": 1 },
+        { "startOffset": 455, "endOffset": 682, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_extends",
+      "ranges": [{ "startOffset": 458, "endOffset": 682, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "defaultEscapeMapFn",
+      "ranges": [{ "startOffset": 1064, "endOffset": 1180, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "module.exports",
+      "ranges": [{ "startOffset": 1569, "endOffset": 2983, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

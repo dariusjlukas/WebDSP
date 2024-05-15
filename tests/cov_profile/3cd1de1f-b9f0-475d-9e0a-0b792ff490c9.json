@@ -1,0 +1,21 @@
+{
+  "scriptId": "938",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/decomposition/slu.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3575, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 424, "endOffset": 3573, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "SparseMatrixNumberNumber",
+      "ranges": [{ "startOffset": 2652, "endOffset": 3565, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

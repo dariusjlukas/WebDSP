@@ -1,0 +1,21 @@
+{
+  "scriptId": "1013",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/transform/variance.transform.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1149, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isTransformFunction",
+      "ranges": [{ "startOffset": 653, "endOffset": 1114, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "any",
+      "ranges": [{ "startOffset": 922, "endOffset": 1106, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

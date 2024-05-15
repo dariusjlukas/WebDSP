@@ -1,0 +1,16 @@
+{
+  "scriptId": "1021",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/utils/emitter.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 500, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mixin",
+      "ranges": [{ "startOffset": 173, "endOffset": 500, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

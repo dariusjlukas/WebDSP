@@ -1,0 +1,11 @@
+{
+  "scriptId": "1135",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/embeddedDocs/function/logical/xor.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 333, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

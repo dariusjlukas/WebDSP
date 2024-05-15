@@ -1,0 +1,26 @@
+{
+  "scriptId": "944",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/chain/function/chain.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1516, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 180, "endOffset": 1514, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_",
+      "ranges": [{ "startOffset": 1391, "endOffset": 1437, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "any",
+      "ranges": [{ "startOffset": 1448, "endOffset": 1506, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

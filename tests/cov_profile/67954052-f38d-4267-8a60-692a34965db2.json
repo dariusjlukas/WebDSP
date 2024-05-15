@@ -1,0 +1,11 @@
+{
+  "scriptId": "1160",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/embeddedDocs/function/matrix/range.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 544, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

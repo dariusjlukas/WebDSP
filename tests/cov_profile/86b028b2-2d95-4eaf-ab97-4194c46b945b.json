@@ -1,0 +1,11 @@
+{
+  "scriptId": "596",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/entry/dependenciesAny/dependenciesPartitionSelect.generated.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 580, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

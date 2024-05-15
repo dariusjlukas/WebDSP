@@ -1,0 +1,21 @@
+{
+  "scriptId": "978",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/combinatorics/bellNumbers.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1313, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 234, "endOffset": 1311, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "numberBigNumber",
+      "ranges": [{ "startOffset": 951, "endOffset": 1303, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

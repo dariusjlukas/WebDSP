@@ -1,0 +1,26 @@
+{
+  "scriptId": "796",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/count.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 939, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 184, "endOffset": 937, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "string",
+      "ranges": [{ "startOffset": 797, "endOffset": 846, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixArray",
+      "ranges": [{ "startOffset": 870, "endOffset": 929, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

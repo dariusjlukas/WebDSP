@@ -1,0 +1,96 @@
+{
+  "scriptId": "955",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/geometry/distance.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 13848, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 316, "endOffset": 13846, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayArrayArray",
+      "ranges": [{ "startOffset": 3348, "endOffset": 4381, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ObjectObjectObject",
+      "ranges": [{ "startOffset": 4413, "endOffset": 5756, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayArray",
+      "ranges": [{ "startOffset": 5778, "endOffset": 7206, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ObjectObject",
+      "ranges": [{ "startOffset": 7230, "endOffset": 10050, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array",
+      "ranges": [{ "startOffset": 10063, "endOffset": 10261, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_isNumber",
+      "ranges": [{ "startOffset": 10270, "endOffset": 10397, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_2d",
+      "ranges": [{ "startOffset": 10400, "endOffset": 10634, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_3d",
+      "ranges": [{ "startOffset": 10637, "endOffset": 10890, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_containsOnlyNumbers",
+      "ranges": [{ "startOffset": 10893, "endOffset": 11122, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_parametricLine",
+      "ranges": [{ "startOffset": 11125, "endOffset": 11351, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_objectToArray",
+      "ranges": [{ "startOffset": 11354, "endOffset": 11523, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_pairwise",
+      "ranges": [{ "startOffset": 11526, "endOffset": 12104, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_distancePointLine2D",
+      "ranges": [{ "startOffset": 12107, "endOffset": 12355, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_distancePointLine3D",
+      "ranges": [{ "startOffset": 12358, "endOffset": 13016, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_euclideanDistance",
+      "ranges": [{ "startOffset": 13019, "endOffset": 13304, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_distancePairwise",
+      "ranges": [{ "startOffset": 13307, "endOffset": 13844, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

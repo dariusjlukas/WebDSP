@@ -1,0 +1,96 @@
+{
+  "scriptId": "911",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/norm.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7233, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 283, "endOffset": 7231, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Complex",
+      "ranges": [{ "startOffset": 1785, "endOffset": 1834, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 1851, "endOffset": 1928, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "boolean",
+      "ranges": [{ "startOffset": 1943, "endOffset": 2022, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array",
+      "ranges": [{ "startOffset": 2035, "endOffset": 2094, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix",
+      "ranges": [{ "startOffset": 2108, "endOffset": 2160, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayNumberBigNumberString",
+      "ranges": [{ "startOffset": 2204, "endOffset": 2287, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixNumberBigNumberString",
+      "ranges": [{ "startOffset": 2332, "endOffset": 2408, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_vectorNormPlusInfinity",
+      "ranges": [{ "startOffset": 2558, "endOffset": 2838, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_vectorNormMinusInfinity",
+      "ranges": [{ "startOffset": 2983, "endOffset": 3276, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_vectorNorm",
+      "ranges": [{ "startOffset": 3438, "endOffset": 4220, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_matrixNormFrobenius",
+      "ranges": [{ "startOffset": 4360, "endOffset": 4580, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_matrixNormOne",
+      "ranges": [{ "startOffset": 4713, "endOffset": 5081, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_matrixNormTwo",
+      "ranges": [{ "startOffset": 5214, "endOffset": 5606, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_matrixNormInfinity",
+      "ranges": [{ "startOffset": 5745, "endOffset": 6115, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_matrixNorm",
+      "ranges": [{ "startOffset": 6286, "endOffset": 6699, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_norm",
+      "ranges": [{ "startOffset": 6861, "endOffset": 7229, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

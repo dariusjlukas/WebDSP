@@ -1,0 +1,31 @@
+{
+  "scriptId": "815",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/squeeze.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1670, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 293, "endOffset": 1668, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Array",
+      "ranges": [{ "startOffset": 1329, "endOffset": 1391, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix",
+      "ranges": [{ "startOffset": 1405, "endOffset": 1587, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "any",
+      "ranges": [{ "startOffset": 1598, "endOffset": 1660, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "scriptId": "1360",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/@babel/runtime/7.23.9/helpers/defineProperty.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 765, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 764, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 194, "endOffset": 700, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_defineProperty",
+      "ranges": [
+        { "startOffset": 305, "endOffset": 586, "count": 16 },
+        { "startOffset": 395, "endOffset": 537, "count": 14 },
+        { "startOffset": 537, "endOffset": 570, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "scriptId": "747",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/bignumber/function/bignumber.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2615, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 248, "endOffset": 2613, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_",
+      "ranges": [{ "startOffset": 1236, "endOffset": 1287, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "number",
+      "ranges": [{ "startOffset": 1301, "endOffset": 1430, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "string",
+      "ranges": [{ "startOffset": 1444, "endOffset": 2127, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 2144, "endOffset": 2233, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2263, "endOffset": 2367, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2271, "endOffset": 2367, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Fraction",
+      "ranges": [{ "startOffset": 2384, "endOffset": 2465, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_null",
+      "ranges": [{ "startOffset": 2477, "endOffset": 2533, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2575, "endOffset": 2604, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2583, "endOffset": 2604, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

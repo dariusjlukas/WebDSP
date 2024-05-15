@@ -1,0 +1,26 @@
+{
+  "scriptId": "830",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/string/hex.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 917, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 527, "endOffset": 915, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "numberBigNumber",
+      "ranges": [{ "startOffset": 628, "endOffset": 722, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberBigNumberNumberBigNumber",
+      "ranges": [{ "startOffset": 770, "endOffset": 907, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "scriptId": "1361",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/@babel/runtime/7.23.9/helpers/toPropertyKey.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 641, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 640, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 194, "endOffset": 576, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "toPropertyKey",
+      "ranges": [
+        { "startOffset": 350, "endOffset": 464, "count": 16 },
+        { "startOffset": 446, "endOffset": 449, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

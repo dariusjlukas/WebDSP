@@ -1,0 +1,11 @@
+{
+  "scriptId": "307",
+  "url": "file:///home/darius/dev/javascript/dspjs-deno/src/dev_deps.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 118, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

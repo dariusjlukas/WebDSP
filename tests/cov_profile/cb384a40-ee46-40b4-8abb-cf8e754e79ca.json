@@ -1,0 +1,46 @@
+{
+  "scriptId": "823",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/special/erf.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5254, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 306, "endOffset": 3560, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "number",
+      "ranges": [{ "startOffset": 1232, "endOffset": 1520, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1562, "endOffset": 1591, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1570, "endOffset": 1591, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "erf1",
+      "ranges": [{ "startOffset": 1953, "endOffset": 2222, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "erfc2",
+      "ranges": [{ "startOffset": 2465, "endOffset": 2841, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "erfc3",
+      "ranges": [{ "startOffset": 3110, "endOffset": 3558, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

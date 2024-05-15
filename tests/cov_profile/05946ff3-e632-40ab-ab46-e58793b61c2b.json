@@ -1,0 +1,21 @@
+{
+  "scriptId": "832",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/unit/to.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1309, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 276, "endOffset": 1307, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Unit, Unit | string",
+      "ranges": [{ "startOffset": 1234, "endOffset": 1257, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

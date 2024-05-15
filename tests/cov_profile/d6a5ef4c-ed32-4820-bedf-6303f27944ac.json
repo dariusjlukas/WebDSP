@@ -1,0 +1,31 @@
+{
+  "scriptId": "737",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/utils/hasNumericValue.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1710, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 201, "endOffset": 1708, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "boolean",
+      "ranges": [{ "startOffset": 1534, "endOffset": 1544, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "string",
+      "ranges": [{ "startOffset": 1558, "endOffset": 1639, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "any",
+      "ranges": [{ "startOffset": 1650, "endOffset": 1700, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

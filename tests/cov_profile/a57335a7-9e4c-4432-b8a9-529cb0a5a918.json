@@ -1,0 +1,16 @@
+{
+  "scriptId": "786",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/bitwise/bitXor.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1901, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 671, "endOffset": 1899, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

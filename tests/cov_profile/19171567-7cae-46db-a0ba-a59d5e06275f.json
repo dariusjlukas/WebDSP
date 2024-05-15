@@ -1,0 +1,91 @@
+{
+  "scriptId": "816",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/subset.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 9208, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 520, "endOffset": 5312, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MatrixIndex",
+      "ranges": [{ "startOffset": 2756, "endOffset": 2943, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2996, "endOffset": 3205, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3032, "endOffset": 3198, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixIndexAnyAny",
+      "ranges": [{ "startOffset": 3334, "endOffset": 3616, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3689, "endOffset": 3957, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3725, "endOffset": 3950, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4026, "endOffset": 4197, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4062, "endOffset": 4190, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4267, "endOffset": 4420, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4303, "endOffset": 4413, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_broadcastReplacement",
+      "ranges": [{ "startOffset": 4853, "endOffset": 5310, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getSubstring",
+      "ranges": [{ "startOffset": 5555, "endOffset": 6185, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_setSubstring",
+      "ranges": [{ "startOffset": 6600, "endOffset": 7994, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getObjectProperty",
+      "ranges": [{ "startOffset": 8153, "endOffset": 8532, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_setObjectProperty",
+      "ranges": [{ "startOffset": 8703, "endOffset": 9208, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

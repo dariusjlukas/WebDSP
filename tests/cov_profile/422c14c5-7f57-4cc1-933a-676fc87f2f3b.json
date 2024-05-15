@@ -1,0 +1,81 @@
+{
+  "scriptId": "357",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/utils/factory.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4716, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory",
+      "ranges": [
+        { "startOffset": 1143, "endOffset": 1758, "count": 401 },
+        { "startOffset": 1692, "endOffset": 1730, "count": 69 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assertAndCreate",
+      "ranges": [{ "startOffset": 1198, "endOffset": 1552, "count": 688 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "sortFactories",
+      "ranges": [{ "startOffset": 1959, "endOffset": 2955, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 3013, "endOffset": 3208, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isFactory",
+      "ranges": [{ "startOffset": 3391, "endOffset": 3519, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "assertDependencies",
+      "ranges": [
+        { "startOffset": 3865, "endOffset": 4482, "count": 688 },
+        { "startOffset": 4106, "endOffset": 4480, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3961, "endOffset": 4008, "count": 2094 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4039, "endOffset": 4084, "count": 2050 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4158, "endOffset": 4203, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4431, "endOffset": 4456, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isOptionalDependency",
+      "ranges": [{ "startOffset": 4490, "endOffset": 4581, "count": 2094 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "stripOptionalNotation",
+      "ranges": [
+        { "startOffset": 4589, "endOffset": 4716, "count": 2094 },
+        { "startOffset": 4679, "endOffset": 4700, "count": 44 },
+        { "startOffset": 4701, "endOffset": 4713, "count": 2050 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

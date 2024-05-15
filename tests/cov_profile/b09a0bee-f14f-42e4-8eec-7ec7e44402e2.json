@@ -1,0 +1,46 @@
+{
+  "scriptId": "871",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/unit/function/unit.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2040, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 332, "endOffset": 2038, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Unit",
+      "ranges": [{ "startOffset": 1368, "endOffset": 1416, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "string",
+      "ranges": [{ "startOffset": 1430, "endOffset": 1649, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberBigNumberFractionComplexStringUnit",
+      "ranges": [{ "startOffset": 1713, "endOffset": 1819, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberBigNumberFraction",
+      "ranges": [{ "startOffset": 1858, "endOffset": 1958, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2000, "endOffset": 2029, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2008, "endOffset": 2029, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

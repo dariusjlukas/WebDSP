@@ -1,0 +1,36 @@
+{
+  "scriptId": "1337",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/plain/number/utils.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 513, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isIntegerNumber",
+      "ranges": [{ "startOffset": 77, "endOffset": 131, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isNegativeNumber",
+      "ranges": [{ "startOffset": 171, "endOffset": 219, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isPositiveNumber",
+      "ranges": [{ "startOffset": 260, "endOffset": 308, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isZeroNumber",
+      "ranges": [{ "startOffset": 349, "endOffset": 395, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isNaNNumber",
+      "ranges": [{ "startOffset": 432, "endOffset": 485, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

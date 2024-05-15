@@ -1,0 +1,11 @@
+{
+  "scriptId": "1296",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/@babel/runtime/7.23.9/helpers/defineProperty.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 318, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

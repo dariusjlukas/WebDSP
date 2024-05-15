@@ -1,0 +1,31 @@
+{
+  "scriptId": "967",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/probability/combinationsWithRep.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2799, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 297, "endOffset": 2604, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "numberNumber",
+      "ranges": [{ "startOffset": 1120, "endOffset": 1751, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumberBigNumber",
+      "ranges": [{ "startOffset": 1781, "endOffset": 2596, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isPositiveInteger",
+      "ranges": [{ "startOffset": 2730, "endOffset": 2799, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

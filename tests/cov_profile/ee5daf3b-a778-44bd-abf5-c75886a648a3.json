@@ -1,0 +1,16 @@
+{
+  "scriptId": "1316",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/utils/switch.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 341, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_switch",
+      "ranges": [{ "startOffset": 95, "endOffset": 341, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

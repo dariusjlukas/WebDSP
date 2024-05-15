@@ -1,0 +1,26 @@
+{
+  "scriptId": "984",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/simplifyCore.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 9812, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 645, "endOffset": 9810, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isAlwaysBoolean",
+      "ranges": [{ "startOffset": 1186, "endOffset": 1297, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_simplifyCore",
+      "ranges": [{ "startOffset": 3181, "endOffset": 9721, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

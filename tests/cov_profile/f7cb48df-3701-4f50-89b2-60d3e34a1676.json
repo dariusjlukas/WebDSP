@@ -1,0 +1,16 @@
+{
+  "scriptId": "1324",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/transform/utils/errorTransform.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 410, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "errorTransform",
+      "ranges": [{ "startOffset": 223, "endOffset": 410, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

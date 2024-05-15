@@ -1,0 +1,11 @@
+{
+  "scriptId": "1120",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/embeddedDocs/function/combinatorics/bellNumbers.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 426, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

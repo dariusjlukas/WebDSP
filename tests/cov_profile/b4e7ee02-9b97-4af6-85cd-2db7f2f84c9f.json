@@ -1,0 +1,26 @@
+{
+  "scriptId": "981",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/leafCount.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1591, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 185, "endOffset": 1589, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "countLeaves",
+      "ranges": [{ "startOffset": 345, "endOffset": 482, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Node",
+      "ranges": [{ "startOffset": 1522, "endOffset": 1581, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

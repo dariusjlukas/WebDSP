@@ -1,0 +1,41 @@
+{
+  "scriptId": "852",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/relational/compareNatural.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 8354, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 323, "endOffset": 7861, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_compareNatural",
+      "ranges": [{ "startOffset": 3269, "endOffset": 4995, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "compareMatricesAndArrays",
+      "ranges": [{ "startOffset": 5327, "endOffset": 6361, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "compareArrays",
+      "ranges": [{ "startOffset": 6679, "endOffset": 7128, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "compareObjects",
+      "ranges": [{ "startOffset": 7376, "endOffset": 7859, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "compareComplexNumbers",
+      "ranges": [{ "startOffset": 8144, "endOffset": 8354, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

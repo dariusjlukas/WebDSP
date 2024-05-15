@@ -1,0 +1,36 @@
+{
+  "scriptId": "969",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/probability/lgamma.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4630, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 587, "endOffset": 4628, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 2330, "endOffset": 2467, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lgammaComplex",
+      "ranges": [{ "startOffset": 2476, "endOffset": 3331, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lgammaStirling",
+      "ranges": [{ "startOffset": 3334, "endOffset": 4105, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lgammaRecurrence",
+      "ranges": [{ "startOffset": 4108, "endOffset": 4626, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

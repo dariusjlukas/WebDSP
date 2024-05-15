@@ -1,0 +1,11 @@
+{
+  "scriptId": "1256",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/embeddedDocs/function/utils/isNaN.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 288, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

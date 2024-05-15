@@ -1,0 +1,21 @@
+{
+  "scriptId": "781",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/invmod.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1640, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 248, "endOffset": 1638, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "invmod",
+      "ranges": [{ "startOffset": 1192, "endOffset": 1636, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

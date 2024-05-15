@@ -1,0 +1,21 @@
+{
+  "scriptId": "1018",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/transform/bitOr.transform.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1058, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isTransformFunction",
+      "ranges": [{ "startOffset": 340, "endOffset": 1023, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "bitOrTransform",
+      "ranges": [{ "startOffset": 542, "endOffset": 963, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

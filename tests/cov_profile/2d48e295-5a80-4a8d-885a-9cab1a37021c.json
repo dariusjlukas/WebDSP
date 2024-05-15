@@ -1,0 +1,52 @@
+{
+  "scriptId": "1372",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/seedrandom/3.0.5/lib/tychei.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2846, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 2845, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 194, "endOffset": 2781, "count": 1 },
+        { "startOffset": 2732, "endOffset": 2741, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 414, "endOffset": 2623, "count": 1 },
+        { "startOffset": 2515, "endOffset": 2620, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "XorGen",
+      "ranges": [{ "startOffset": 450, "endOffset": 1801, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "copy",
+      "ranges": [{ "startOffset": 1803, "endOffset": 1890, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "impl",
+      "ranges": [{ "startOffset": 1893, "endOffset": 2455, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2558, "endOffset": 2585, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

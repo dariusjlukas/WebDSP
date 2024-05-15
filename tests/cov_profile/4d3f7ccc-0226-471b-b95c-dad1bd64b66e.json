@@ -1,0 +1,41 @@
+{
+  "scriptId": "759",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/addScalar.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1669, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 233, "endOffset": 1667, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ComplexComplex",
+      "ranges": [{ "startOffset": 840, "endOffset": 900, "count": 6148 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BigNumberBigNumber",
+      "ranges": [{ "startOffset": 930, "endOffset": 995, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FractionFraction",
+      "ranges": [{ "startOffset": 1023, "endOffset": 1085, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1123, "endOffset": 1658, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1131, "endOffset": 1658, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

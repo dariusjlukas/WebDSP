@@ -1,0 +1,11 @@
+{
+  "scriptId": "531",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/entry/dependenciesAny/dependenciesLOG10E.generated.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 279, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

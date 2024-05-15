@@ -1,0 +1,16 @@
+{
+  "scriptId": "783",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/bitwise/bitAnd.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1932, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 669, "endOffset": 1930, "count": 2 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "scriptId": "906",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/set/setSize.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1700, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 238, "endOffset": 1698, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayMatrix",
+      "ranges": [{ "startOffset": 1076, "endOffset": 1188, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrixBoolean",
+      "ranges": [{ "startOffset": 1221, "endOffset": 1690, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

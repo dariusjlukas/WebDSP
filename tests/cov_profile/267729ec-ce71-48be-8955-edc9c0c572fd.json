@@ -1,0 +1,21 @@
+{
+  "scriptId": "898",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/trigonometry/tanh.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1112, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 221, "endOffset": 1110, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Complex | BigNumber",
+      "ranges": [{ "startOffset": 1089, "endOffset": 1102, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

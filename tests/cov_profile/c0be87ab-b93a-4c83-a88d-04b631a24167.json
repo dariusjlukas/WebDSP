@@ -1,0 +1,46 @@
+{
+  "scriptId": "1331",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/plain/number/bitwise.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1453, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "bitAndNumber",
+      "ranges": [{ "startOffset": 104, "endOffset": 256, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "bitNotNumber",
+      "ranges": [{ "startOffset": 293, "endOffset": 421, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "bitOrNumber",
+      "ranges": [{ "startOffset": 458, "endOffset": 608, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "bitXorNumber",
+      "ranges": [{ "startOffset": 644, "endOffset": 796, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "leftShiftNumber",
+      "ranges": [{ "startOffset": 833, "endOffset": 992, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "rightArithShiftNumber",
+      "ranges": [{ "startOffset": 1032, "endOffset": 1203, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "rightLogShiftNumber",
+      "ranges": [{ "startOffset": 1249, "endOffset": 1417, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

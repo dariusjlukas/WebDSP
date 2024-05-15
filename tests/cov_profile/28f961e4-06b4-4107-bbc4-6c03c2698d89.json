@@ -1,0 +1,26 @@
+{
+  "scriptId": "810",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/resize.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3815, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 576, "endOffset": 3813, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "resize",
+      "ranges": [{ "startOffset": 1644, "endOffset": 2833, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_resizeString",
+      "ranges": [{ "startOffset": 2977, "endOffset": 3811, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

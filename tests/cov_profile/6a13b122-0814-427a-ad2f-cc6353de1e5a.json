@@ -1,0 +1,16 @@
+{
+  "scriptId": "733",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/utils/clone.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 892, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 230, "endOffset": 890, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

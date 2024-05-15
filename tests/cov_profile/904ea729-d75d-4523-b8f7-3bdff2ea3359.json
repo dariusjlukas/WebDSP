@@ -1,0 +1,36 @@
+{
+  "scriptId": "734",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/utils/isInteger.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1801, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 299, "endOffset": 1799, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 1581, "endOffset": 1634, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Fraction",
+      "ranges": [{ "startOffset": 1650, "endOffset": 1719, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1761, "endOffset": 1790, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1769, "endOffset": 1790, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "scriptId": "918",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/node/AssignmentNode.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 11497, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [{ "startOffset": 655, "endOffset": 11458, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "needParenthesis",
+      "ranges": [{ "startOffset": 978, "endOffset": 1328, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "AssignmentNode",
+      "ranges": [{ "startOffset": 2513, "endOffset": 3222, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get name",
+      "ranges": [{ "startOffset": 3298, "endOffset": 3486, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get type",
+      "ranges": [{ "startOffset": 3491, "endOffset": 3528, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get isAssignmentNode",
+      "ranges": [{ "startOffset": 3533, "endOffset": 3582, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_compile",
+      "ranges": [{ "startOffset": 4403, "endOffset": 7879, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "forEach",
+      "ranges": [{ "startOffset": 8043, "endOffset": 8233, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "map",
+      "ranges": [{ "startOffset": 8560, "endOffset": 8866, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clone",
+      "ranges": [{ "startOffset": 8971, "endOffset": 9056, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_toString",
+      "ranges": [{ "startOffset": 9166, "endOffset": 9540, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toJSON",
+      "ranges": [{ "startOffset": 9632, "endOffset": 9776, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fromJSON",
+      "ranges": [{ "startOffset": 10085, "endOffset": 10177, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_toHTML",
+      "ranges": [{ "startOffset": 10285, "endOffset": 10891, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_toTex",
+      "ranges": [{ "startOffset": 11000, "endOffset": 11378, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

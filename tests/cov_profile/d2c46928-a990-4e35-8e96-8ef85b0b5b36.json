@@ -1,0 +1,31 @@
+{
+  "scriptId": "814",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/size.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1420, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 285, "endOffset": 1418, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Matrix",
+      "ranges": [{ "startOffset": 1000, "endOffset": 1059, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "string",
+      "ranges": [{ "startOffset": 1095, "endOffset": 1195, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberComplexBigNumberUnitBooleanNull",
+      "ranges": [{ "startOffset": 1257, "endOffset": 1410, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

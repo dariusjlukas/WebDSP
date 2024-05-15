@@ -1,0 +1,36 @@
+{
+  "scriptId": "965",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/statistics/corr.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2951, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 247, "endOffset": 2949, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayArray",
+      "ranges": [{ "startOffset": 1243, "endOffset": 1302, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixMatrix",
+      "ranges": [{ "startOffset": 1326, "endOffset": 1463, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_corr",
+      "ranges": [{ "startOffset": 1676, "endOffset": 2414, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "correlation",
+      "ranges": [{ "startOffset": 2417, "endOffset": 2947, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "scriptId": "310",
+  "url": "file:///home/darius/dev/javascript/dspjs-deno/src/dsp-functions/convolution.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1727, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "convolutionMatrix",
+      "ranges": [
+        { "startOffset": 198, "endOffset": 571, "count": 1 },
+        { "startOffset": 393, "endOffset": 520, "count": 7 },
+        { "startOffset": 430, "endOffset": 445, "count": 22 },
+        { "startOffset": 456, "endOffset": 516, "count": 18 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "shiftArrayRight",
+      "ranges": [
+        { "startOffset": 596, "endOffset": 670, "count": 14 },
+        { "startOffset": 642, "endOffset": 668, "count": 28 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "convolution",
+      "ranges": [
+        { "startOffset": 679, "endOffset": 1000, "count": 1 },
+        { "startOffset": 825, "endOffset": 986, "count": 7 },
+        { "startOffset": 921, "endOffset": 982, "count": 21 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "convolutionComplex",
+      "ranges": [
+        { "startOffset": 1008, "endOffset": 1406, "count": 1 },
+        { "startOffset": 1211, "endOffset": 1392, "count": 7 },
+        { "startOffset": 1307, "endOffset": 1388, "count": 21 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "convolutionReal",
+      "ranges": [{ "startOffset": 1414, "endOffset": 1726, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

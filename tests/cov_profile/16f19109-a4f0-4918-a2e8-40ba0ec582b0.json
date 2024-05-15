@@ -1,0 +1,26 @@
+{
+  "scriptId": "360",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/core/function/config.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3979, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "configFactory",
+      "ranges": [{ "startOffset": 307, "endOffset": 3197, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "contains",
+      "ranges": [{ "startOffset": 3336, "endOffset": 3407, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validateOption",
+      "ranges": [{ "startOffset": 3635, "endOffset": 3979, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

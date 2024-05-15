@@ -1,0 +1,86 @@
+{
+  "scriptId": "744",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/number.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4706, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getNonDecimalNumberParts",
+      "ranges": [{ "startOffset": 361, "endOffset": 849, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "makeNumberFromNonDecimalParts",
+      "ranges": [{ "startOffset": 1044, "endOffset": 1488, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1558, "endOffset": 4704, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_",
+      "ranges": [{ "startOffset": 2622, "endOffset": 2658, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "number",
+      "ranges": [{ "startOffset": 2672, "endOffset": 2714, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "string",
+      "ranges": [{ "startOffset": 2728, "endOffset": 3946, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 3963, "endOffset": 4019, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Fraction",
+      "ranges": [{ "startOffset": 4035, "endOffset": 4089, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4119, "endOffset": 4223, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4127, "endOffset": 4223, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_null",
+      "ranges": [{ "startOffset": 4236, "endOffset": 4277, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "UnitStringUnit",
+      "ranges": [{ "startOffset": 4306, "endOffset": 4401, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4443, "endOffset": 4472, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4451, "endOffset": 4472, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "number.fromJSON",
+      "ranges": [{ "startOffset": 4628, "endOffset": 4684, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

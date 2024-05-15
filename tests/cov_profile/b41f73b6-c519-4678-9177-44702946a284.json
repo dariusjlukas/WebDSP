@@ -1,0 +1,75 @@
+{
+  "scriptId": "819",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/zeros.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3682, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 348, "endOffset": 3613, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_",
+      "ranges": [{ "startOffset": 1455, "endOffset": 1552, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberBigNumberString",
+      "ranges": [
+        { "startOffset": 1741, "endOffset": 2071, "count": 1 },
+        { "startOffset": 1856, "endOffset": 1935, "count": 0 },
+        { "startOffset": 1972, "endOffset": 2010, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Matrix",
+      "ranges": [{ "startOffset": 2104, "endOffset": 2213, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrixString",
+      "ranges": [{ "startOffset": 2245, "endOffset": 2338, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_zeros",
+      "ranges": [
+        { "startOffset": 2511, "endOffset": 3008, "count": 1 },
+        { "startOffset": 2622, "endOffset": 2640, "count": 0 },
+        { "startOffset": 2821, "endOffset": 3004, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_normalize",
+      "ranges": [{ "startOffset": 3092, "endOffset": 3345, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 3168, "endOffset": 3313, "count": 2 },
+        { "startOffset": 3229, "endOffset": 3307, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_validate",
+      "ranges": [{ "startOffset": 3373, "endOffset": 3611, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 3417, "endOffset": 3605, "count": 2 },
+        { "startOffset": 3507, "endOffset": 3599, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

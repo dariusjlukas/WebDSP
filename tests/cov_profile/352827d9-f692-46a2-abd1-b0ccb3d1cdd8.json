@@ -1,0 +1,46 @@
+{
+  "scriptId": "738",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/utils/isPositive.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1996, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 295, "endOffset": 1994, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 1670, "endOffset": 1753, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Fraction",
+      "ranges": [{ "startOffset": 1769, "endOffset": 1830, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1860, "endOffset": 1913, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1868, "endOffset": 1913, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1956, "endOffset": 1985, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1964, "endOffset": 1985, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "scriptId": "986",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/symbolicEqual.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2536, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 273, "endOffset": 2534, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_symbolicEqual",
+      "ranges": [{ "startOffset": 2131, "endOffset": 2428, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

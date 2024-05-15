@@ -1,0 +1,21 @@
+{
+  "scriptId": "907",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/set/setSymDifference.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1556, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 292, "endOffset": 1554, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayMatrixArrayMatrix",
+      "ranges": [{ "startOffset": 1148, "endOffset": 1546, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

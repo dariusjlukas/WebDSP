@@ -1,0 +1,16 @@
+{
+  "scriptId": "1325",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/transform/utils/compileInlineExpression.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1080, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "compileInlineExpression",
+      "ranges": [{ "startOffset": 403, "endOffset": 1080, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

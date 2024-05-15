@@ -1,0 +1,244 @@
+{
+  "scriptId": "732",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/matrix/DenseMatrix.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 28181, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [{ "startOffset": 748, "endOffset": 28158, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DenseMatrix",
+      "ranges": [
+        { "startOffset": 998, "endOffset": 2679, "count": 12 },
+        { "startOffset": 1077, "endOffset": 1165, "count": 0 },
+        { "startOffset": 1183, "endOffset": 1205, "count": 0 },
+        { "startOffset": 1207, "endOffset": 1270, "count": 0 },
+        { "startOffset": 1295, "endOffset": 1732, "count": 0 },
+        { "startOffset": 1747, "endOffset": 1768, "count": 11 },
+        { "startOffset": 1769, "endOffset": 1790, "count": 1 },
+        { "startOffset": 1792, "endOffset": 2045, "count": 1 },
+        { "startOffset": 2045, "endOffset": 2675, "count": 11 },
+        { "startOffset": 2070, "endOffset": 2429, "count": 10 },
+        { "startOffset": 2429, "endOffset": 2675, "count": 1 },
+        { "startOffset": 2445, "endOffset": 2556, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DenseMatrix.createDenseMatrix",
+      "ranges": [{ "startOffset": 2807, "endOffset": 2882, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DenseMatrix.getDataType",
+      "ranges": [{ "startOffset": 3460, "endOffset": 3526, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DenseMatrix.storage",
+      "ranges": [{ "startOffset": 3793, "endOffset": 3830, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix.datatype",
+      "ranges": [{ "startOffset": 4103, "endOffset": 4147, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix.create",
+      "ranges": [{ "startOffset": 4309, "endOffset": 4384, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DenseMatrix.subset",
+      "ranges": [{ "startOffset": 5023, "endOffset": 5357, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix.get",
+      "ranges": [
+        { "startOffset": 5543, "endOffset": 6079, "count": 8 },
+        { "startOffset": 5587, "endOffset": 5639, "count": 0 },
+        { "startOffset": 5684, "endOffset": 5756, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DenseMatrix.set",
+      "ranges": [
+        { "startOffset": 6541, "endOffset": 7305, "count": 18 },
+        { "startOffset": 6606, "endOffset": 6658, "count": 0 },
+        { "startOffset": 6701, "endOffset": 6778, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6862, "endOffset": 6902, "count": 36 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_get",
+      "ranges": [{ "startOffset": 7477, "endOffset": 8432, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getSubmatrix",
+      "ranges": [{ "startOffset": 8806, "endOffset": 9270, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_set",
+      "ranges": [{ "startOffset": 9681, "endOffset": 11936, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_setSubmatrix",
+      "ranges": [{ "startOffset": 12210, "endOffset": 12709, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix.resize",
+      "ranges": [
+        { "startOffset": 13366, "endOffset": 13879, "count": 1 },
+        { "startOffset": 13459, "endOffset": 13521, "count": 0 },
+        { "startOffset": 13784, "endOffset": 13798, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 13647, "endOffset": 13739, "count": 2 },
+        { "startOffset": 13692, "endOffset": 13713, "count": 0 },
+        { "startOffset": 13714, "endOffset": 13724, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_resize",
+      "ranges": [
+        { "startOffset": 13883, "endOffset": 14313, "count": 1 },
+        { "startOffset": 13975, "endOffset": 14127, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DenseMatrix.reshape",
+      "ranges": [{ "startOffset": 14939, "endOffset": 15188, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_fit",
+      "ranges": [
+        { "startOffset": 15543, "endOffset": 16112, "count": 18 },
+        { "startOffset": 15755, "endOffset": 15807, "count": 0 },
+        { "startOffset": 15892, "endOffset": 15995, "count": 36 },
+        { "startOffset": 15926, "endOffset": 15989, "count": 0 },
+        { "startOffset": 16013, "endOffset": 16108, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DenseMatrix.clone",
+      "ranges": [{ "startOffset": 16252, "endOffset": 16414, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix.size",
+      "ranges": [{ "startOffset": 16555, "endOffset": 16631, "count": 10 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DenseMatrix.map",
+      "ranges": [{ "startOffset": 17094, "endOffset": 18041, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix.forEach",
+      "ranges": [{ "startOffset": 18421, "endOffset": 18761, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix.<computed>",
+      "ranges": [{ "startOffset": 18909, "endOffset": 19245, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix.rows",
+      "ranges": [{ "startOffset": 19378, "endOffset": 19685, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix.columns",
+      "ranges": [{ "startOffset": 19824, "endOffset": 20263, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix.toArray",
+      "ranges": [{ "startOffset": 20431, "endOffset": 20478, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DenseMatrix.valueOf",
+      "ranges": [{ "startOffset": 20656, "endOffset": 20696, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix.format",
+      "ranges": [{ "startOffset": 21180, "endOffset": 21244, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix.toString",
+      "ranges": [{ "startOffset": 21395, "endOffset": 21443, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix.toJSON",
+      "ranges": [{ "startOffset": 21586, "endOffset": 21731, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix.diagonal",
+      "ranges": [{ "startOffset": 22025, "endOffset": 22924, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix.diagonal",
+      "ranges": [{ "startOffset": 23449, "endOffset": 26157, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix.fromJSON",
+      "ranges": [{ "startOffset": 26475, "endOffset": 26530, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix.swapRows",
+      "ranges": [{ "startOffset": 26797, "endOffset": 27318, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrix._swapRows",
+      "ranges": [{ "startOffset": 27556, "endOffset": 27673, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "preprocess",
+      "ranges": [
+        { "startOffset": 27947, "endOffset": 28134, "count": 33 },
+        { "startOffset": 27999, "endOffset": 28047, "count": 0 },
+        { "startOffset": 28071, "endOffset": 28113, "count": 10 },
+        { "startOffset": 28113, "endOffset": 28133, "count": 23 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

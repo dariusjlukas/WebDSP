@@ -1,0 +1,21 @@
+{
+  "scriptId": "991",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/json/reviver.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 620, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 171, "endOffset": 618, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "reviver",
+      "ranges": [{ "startOffset": 392, "endOffset": 615, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

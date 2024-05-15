@@ -1,0 +1,141 @@
+{
+  "scriptId": "915",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/node/Node.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 11780, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [{ "startOffset": 370, "endOffset": 11741, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_validateScope",
+      "ranges": [{ "startOffset": 570, "endOffset": 792, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get type",
+      "ranges": [{ "startOffset": 812, "endOffset": 851, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get isNode",
+      "ranges": [{ "startOffset": 856, "endOffset": 895, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "evaluate",
+      "ranges": [{ "startOffset": 1055, "endOffset": 1123, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "compile",
+      "ranges": [{ "startOffset": 1514, "endOffset": 1815, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_compile",
+      "ranges": [{ "startOffset": 2636, "endOffset": 2751, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "forEach",
+      "ranges": [{ "startOffset": 2915, "endOffset": 3070, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "map",
+      "ranges": [{ "startOffset": 3385, "endOffset": 3532, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_ifNode",
+      "ranges": [{ "startOffset": 3738, "endOffset": 3882, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "traverse",
+      "ranges": [{ "startOffset": 4173, "endOffset": 4592, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "transform",
+      "ranges": [{ "startOffset": 5502, "endOffset": 5855, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "filter",
+      "ranges": [{ "startOffset": 6564, "endOffset": 6774, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clone",
+      "ranges": [{ "startOffset": 6861, "endOffset": 6997, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cloneDeep",
+      "ranges": [{ "startOffset": 7081, "endOffset": 7183, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "equals",
+      "ranges": [{ "startOffset": 7430, "endOffset": 7538, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toString",
+      "ranges": [{ "startOffset": 8074, "endOffset": 8280, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_toString",
+      "ranges": [{ "startOffset": 8436, "endOffset": 8589, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toJSON",
+      "ranges": [{ "startOffset": 8794, "endOffset": 8900, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toHTML",
+      "ranges": [{ "startOffset": 9435, "endOffset": 9637, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_toHTML",
+      "ranges": [{ "startOffset": 9791, "endOffset": 9940, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toTex",
+      "ranges": [{ "startOffset": 10475, "endOffset": 10675, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_toTex",
+      "ranges": [{ "startOffset": 10863, "endOffset": 11017, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getCustomString",
+      "ranges": [{ "startOffset": 11080, "endOffset": 11471, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getIdentifier",
+      "ranges": [{ "startOffset": 11540, "endOffset": 11587, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getContent",
+      "ranges": [{ "startOffset": 11681, "endOffset": 11720, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

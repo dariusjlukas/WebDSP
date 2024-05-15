@@ -1,0 +1,41 @@
+{
+  "scriptId": "971",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/probability/kldivergence.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2192, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 261, "endOffset": 2190, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayArray",
+      "ranges": [{ "startOffset": 905, "endOffset": 981, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixArray",
+      "ranges": [{ "startOffset": 1004, "endOffset": 1073, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrix",
+      "ranges": [{ "startOffset": 1096, "endOffset": 1165, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixMatrix",
+      "ranges": [{ "startOffset": 1189, "endOffset": 1251, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_kldiv",
+      "ranges": [{ "startOffset": 1260, "endOffset": 2188, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

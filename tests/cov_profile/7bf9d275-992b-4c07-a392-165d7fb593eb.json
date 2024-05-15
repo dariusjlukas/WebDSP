@@ -1,0 +1,46 @@
+{
+  "scriptId": "1344",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/sparse/csAmd.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 18282, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 310, "endOffset": 18280, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "csAmd",
+      "ranges": [{ "startOffset": 929, "endOffset": 13329, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_createTargetMatrix",
+      "ranges": [{ "startOffset": 14177, "endOffset": 15284, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_initializeQuotientGraph",
+      "ranges": [{ "startOffset": 15862, "endOffset": 16774, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_initializeDegreeLists",
+      "ranges": [{ "startOffset": 17079, "endOffset": 17949, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_wclear",
+      "ranges": [{ "startOffset": 17952, "endOffset": 18229, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_diag",
+      "ranges": [{ "startOffset": 18232, "endOffset": 18278, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

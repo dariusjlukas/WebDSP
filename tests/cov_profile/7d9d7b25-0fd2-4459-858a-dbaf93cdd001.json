@@ -1,0 +1,26 @@
+{
+  "scriptId": "805",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/map.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2423, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 226, "endOffset": 1801, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MatrixFunction",
+      "ranges": [{ "startOffset": 1719, "endOffset": 1793, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_map",
+      "ranges": [{ "startOffset": 1935, "endOffset": 2423, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

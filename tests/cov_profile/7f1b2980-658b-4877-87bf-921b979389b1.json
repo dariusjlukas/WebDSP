@@ -1,0 +1,41 @@
+{
+  "scriptId": "773",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/multiplyScalar.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1322, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 248, "endOffset": 1320, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ComplexComplex",
+      "ranges": [{ "startOffset": 903, "endOffset": 963, "count": 10245 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BigNumberBigNumber",
+      "ranges": [{ "startOffset": 993, "endOffset": 1059, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FractionFraction",
+      "ranges": [{ "startOffset": 1087, "endOffset": 1149, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "number | Fraction | BigNumber | Complex, Unit",
+      "ranges": [{ "startOffset": 1204, "endOffset": 1227, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Unit, number | Fraction | BigNumber | Complex | Unit",
+      "ranges": [{ "startOffset": 1289, "endOffset": 1312, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

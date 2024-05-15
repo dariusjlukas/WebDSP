@@ -1,0 +1,21 @@
+{
+  "scriptId": "900",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/set/setDifference.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2421, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 314, "endOffset": 2419, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayMatrixArrayMatrix",
+      "ranges": [{ "startOffset": 1194, "endOffset": 2411, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

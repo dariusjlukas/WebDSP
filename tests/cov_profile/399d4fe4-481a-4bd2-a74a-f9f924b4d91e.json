@@ -1,0 +1,71 @@
+{
+  "scriptId": "313",
+  "url": "file:///home/darius/dev/javascript/dspjs-deno/src/lib/complex.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2029, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fromNumberArray",
+      "ranges": [{ "startOffset": 7, "endOffset": 184, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 86, "endOffset": 160, "count": 17 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "conj",
+      "ranges": [{ "startOffset": 192, "endOffset": 256, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "calcModulus",
+      "ranges": [{ "startOffset": 337, "endOffset": 423, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "calcArgument",
+      "ranges": [{ "startOffset": 431, "endOffset": 804, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "calcReciprocal",
+      "ranges": [{ "startOffset": 812, "endOffset": 975, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "add",
+      "ranges": [{ "startOffset": 983, "endOffset": 1098, "count": 21 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "subtract",
+      "ranges": [{ "startOffset": 1106, "endOffset": 1235, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "multiplyReal",
+      "ranges": [{ "startOffset": 1243, "endOffset": 1385, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "multiplyCplx",
+      "ranges": [{ "startOffset": 1393, "endOffset": 1609, "count": 21 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "divideReal",
+      "ranges": [{ "startOffset": 1617, "endOffset": 1736, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "divideCplx",
+      "ranges": [{ "startOffset": 1744, "endOffset": 2028, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

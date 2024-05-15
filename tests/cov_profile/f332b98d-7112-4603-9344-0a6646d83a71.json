@@ -1,0 +1,26 @@
+{
+  "scriptId": "910",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/hypot.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2614, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 350, "endOffset": 2612, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Matrix",
+      "ranges": [{ "startOffset": 1572, "endOffset": 1605, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_hypot",
+      "ranges": [{ "startOffset": 1795, "endOffset": 2610, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

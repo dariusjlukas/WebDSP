@@ -1,0 +1,21 @@
+{
+  "scriptId": "1299",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/solver/utils/solveValidation.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3589, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createSolveValidation",
+      "ranges": [{ "startOffset": 209, "endOffset": 3589, "count": 5 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "solveValidation",
+      "ranges": [{ "startOffset": 619, "endOffset": 3586, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

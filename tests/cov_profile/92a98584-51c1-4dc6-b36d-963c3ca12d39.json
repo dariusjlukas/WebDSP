@@ -1,0 +1,71 @@
+{
+  "scriptId": "748",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/complex/function/complex.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3498, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 242, "endOffset": 3496, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_",
+      "ranges": [{ "startOffset": 2393, "endOffset": 2440, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "number",
+      "ranges": [{ "startOffset": 2454, "endOffset": 2512, "count": 256 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "numberNumber",
+      "ranges": [{ "startOffset": 2536, "endOffset": 2607, "count": 4358 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BigNumberBigNumber",
+      "ranges": [{ "startOffset": 2685, "endOffset": 2784, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Fraction",
+      "ranges": [{ "startOffset": 2800, "endOffset": 2870, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Complex",
+      "ranges": [{ "startOffset": 2885, "endOffset": 2936, "count": 3844 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "string",
+      "ranges": [{ "startOffset": 2950, "endOffset": 3025, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_null",
+      "ranges": [{ "startOffset": 3037, "endOffset": 3087, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Object",
+      "ranges": [{ "startOffset": 3101, "endOffset": 3416, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3458, "endOffset": 3487, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3466, "endOffset": 3487, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "scriptId": "855",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/relational/equalText.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1258, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 201, "endOffset": 1256, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "anyAny",
+      "ranges": [{ "startOffset": 1179, "endOffset": 1248, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scriptId": "790",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/complex/re.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1208, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 215, "endOffset": 1206, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "number | BigNumber | Fraction",
+      "ranges": [{ "startOffset": 1096, "endOffset": 1102, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Complex",
+      "ranges": [{ "startOffset": 1117, "endOffset": 1126, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1168, "endOffset": 1197, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1176, "endOffset": 1197, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

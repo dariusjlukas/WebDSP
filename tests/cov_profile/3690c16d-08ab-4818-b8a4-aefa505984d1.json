@@ -1,0 +1,26 @@
+{
+  "scriptId": "950",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/sqrtm.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2922, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 399, "endOffset": 2920, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_denmanBeavers",
+      "ranges": [{ "startOffset": 945, "endOffset": 1432, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrix",
+      "ranges": [{ "startOffset": 2026, "endOffset": 2912, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

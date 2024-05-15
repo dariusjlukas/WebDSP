@@ -1,0 +1,86 @@
+{
+  "scriptId": "808",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/range.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6397, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 331, "endOffset": 6395, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "numberNumber",
+      "ranges": [{ "startOffset": 2626, "endOffset": 2716, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberNumberNumber",
+      "ranges": [{ "startOffset": 2748, "endOffset": 2853, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberNumberBoolean",
+      "ranges": [{ "startOffset": 2886, "endOffset": 3000, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberNumberNumberBoolean",
+      "ranges": [{ "startOffset": 3041, "endOffset": 3170, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumberBigNumber",
+      "ranges": [{ "startOffset": 3200, "endOffset": 3352, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumberBigNumberBigNumber",
+      "ranges": [{ "startOffset": 3393, "endOffset": 3507, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumberBigNumberBoolean",
+      "ranges": [{ "startOffset": 3546, "endOffset": 3722, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumberBigNumberBigNumberBoolean",
+      "ranges": [{ "startOffset": 3772, "endOffset": 3910, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "UnitUnitUnit",
+      "ranges": [{ "startOffset": 3936, "endOffset": 4035, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "UnitUnitUnitBoolean",
+      "ranges": [{ "startOffset": 4070, "endOffset": 4193, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_out",
+      "ranges": [{ "startOffset": 4202, "endOffset": 4334, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_strRange",
+      "ranges": [{ "startOffset": 4337, "endOffset": 4781, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_range",
+      "ranges": [{ "startOffset": 5054, "endOffset": 5347, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_parse",
+      "ranges": [{ "startOffset": 5735, "endOffset": 6393, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

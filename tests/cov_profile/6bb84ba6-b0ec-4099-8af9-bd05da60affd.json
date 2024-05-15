@@ -1,0 +1,41 @@
+{
+  "scriptId": "1011",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/transform/quantileSeq.transform.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2055, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isTransformFunction",
+      "ranges": [{ "startOffset": 685, "endOffset": 2020, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Array | Matrix, number | BigNumber, number",
+      "ranges": [{ "startOffset": 1224, "endOffset": 1286, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array | Matrix, number | BigNumber, boolean, number",
+      "ranges": [{ "startOffset": 1411, "endOffset": 1489, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array | Matrix, Array | Matrix, number",
+      "ranges": [{ "startOffset": 1588, "endOffset": 1652, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array | Matrix, Array | Matrix, boolean, number",
+      "ranges": [{ "startOffset": 1769, "endOffset": 1849, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "dimToZeroBase",
+      "ranges": [{ "startOffset": 1858, "endOffset": 2018, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

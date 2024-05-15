@@ -1,0 +1,31 @@
+{
+  "scriptId": "1014",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/transform/print.transform.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1277, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isTransformFunction",
+      "ranges": [{ "startOffset": 319, "endOffset": 1242, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "stringObjectArray",
+      "ranges": [{ "startOffset": 520, "endOffset": 644, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stringObjectArrayNumberObject",
+      "ranges": [{ "startOffset": 693, "endOffset": 847, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_convertTemplateToZeroBasedIndex",
+      "ranges": [{ "startOffset": 856, "endOffset": 1240, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

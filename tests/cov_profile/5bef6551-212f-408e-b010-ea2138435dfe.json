@@ -1,0 +1,41 @@
+{
+  "scriptId": "755",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/unaryMinus.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1514, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 295, "endOffset": 1512, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Complex | BigNumber | Fraction",
+      "ranges": [{ "startOffset": 1156, "endOffset": 1168, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1198, "endOffset": 1325, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1206, "endOffset": 1325, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1431, "endOffset": 1466, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1439, "endOffset": 1466, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

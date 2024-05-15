@@ -1,0 +1,11 @@
+{
+  "scriptId": "1298",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/utils/print.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 41, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

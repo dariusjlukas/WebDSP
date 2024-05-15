@@ -1,0 +1,76 @@
+{
+  "scriptId": "868",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/matrix/FibonacciHeap.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 9839, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [{ "startOffset": 201, "endOffset": 9816, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "FibonacciHeap",
+      "ranges": [{ "startOffset": 464, "endOffset": 697, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FibonacciHeap.insert",
+      "ranges": [{ "startOffset": 1115, "endOffset": 1932, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FibonacciHeap.size",
+      "ranges": [{ "startOffset": 2078, "endOffset": 2118, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FibonacciHeap.clear",
+      "ranges": [{ "startOffset": 2238, "endOffset": 2301, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FibonacciHeap.isEmpty",
+      "ranges": [{ "startOffset": 2438, "endOffset": 2484, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FibonacciHeap.extractMinimum",
+      "ranges": [{ "startOffset": 2661, "endOffset": 3999, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FibonacciHeap.remove",
+      "ranges": [{ "startOffset": 4351, "endOffset": 4511, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_decreaseKey",
+      "ranges": [{ "startOffset": 4746, "endOffset": 5255, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_cut",
+      "ranges": [{ "startOffset": 5451, "endOffset": 6113, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_cascadingCut",
+      "ranges": [{ "startOffset": 6356, "endOffset": 6767, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_linkNodes",
+      "ranges": [{ "startOffset": 6908, "endOffset": 7474, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_findMinimumNode",
+      "ranges": [{ "startOffset": 7478, "endOffset": 9790, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

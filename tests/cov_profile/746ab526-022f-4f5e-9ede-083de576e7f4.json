@@ -1,0 +1,36 @@
+{
+  "scriptId": "763",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/cube.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1469, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 224, "endOffset": 1467, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Complex",
+      "ranges": [{ "startOffset": 1134, "endOffset": 1219, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 1236, "endOffset": 1299, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Fraction",
+      "ranges": [{ "startOffset": 1315, "endOffset": 1400, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Unit",
+      "ranges": [{ "startOffset": 1412, "endOffset": 1459, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

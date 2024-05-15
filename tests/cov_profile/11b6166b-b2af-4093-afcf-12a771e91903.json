@@ -1,0 +1,36 @@
+{
+  "scriptId": "864",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/statistics/max.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3092, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 351, "endOffset": 3090, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayMatrixNumberBigNumber",
+      "ranges": [{ "startOffset": 1656, "endOffset": 1764, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_",
+      "ranges": [{ "startOffset": 1805, "endOffset": 1972, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_largest",
+      "ranges": [{ "startOffset": 2152, "endOffset": 2300, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_max",
+      "ranges": [{ "startOffset": 2453, "endOffset": 3088, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "scriptId": "719",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/entry/dependenciesAny/dependenciesXgcd.generated.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 458, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

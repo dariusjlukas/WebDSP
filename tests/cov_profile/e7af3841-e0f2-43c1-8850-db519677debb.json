@@ -1,0 +1,21 @@
+{
+  "scriptId": "904",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/set/setMultiplicity.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1531, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 281, "endOffset": 1529, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "numberBigNumberFractionComplexArrayMatrix",
+      "ranges": [{ "startOffset": 1127, "endOffset": 1521, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

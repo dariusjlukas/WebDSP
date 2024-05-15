@@ -1,0 +1,206 @@
+{
+  "scriptId": "743",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/matrix/SparseMatrix.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 45760, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [{ "startOffset": 734, "endOffset": 45737, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "SparseMatrix",
+      "ranges": [{ "startOffset": 1065, "endOffset": 2143, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_createFromMatrix",
+      "ranges": [{ "startOffset": 2146, "endOffset": 2680, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_createFromArray",
+      "ranges": [{ "startOffset": 2683, "endOffset": 4860, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.createSparseMatrix",
+      "ranges": [{ "startOffset": 4992, "endOffset": 5068, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.getDataType",
+      "ranges": [{ "startOffset": 5656, "endOffset": 5724, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.storage",
+      "ranges": [{ "startOffset": 5994, "endOffset": 6032, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.datatype",
+      "ranges": [{ "startOffset": 6308, "endOffset": 6352, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.create",
+      "ranges": [{ "startOffset": 6517, "endOffset": 6593, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.density",
+      "ranges": [{ "startOffset": 6861, "endOffset": 7072, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.subset",
+      "ranges": [{ "startOffset": 7713, "endOffset": 8222, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getsubset",
+      "ranges": [{ "startOffset": 8226, "endOffset": 10268, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_setsubset",
+      "ranges": [{ "startOffset": 10271, "endOffset": 13127, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.get",
+      "ranges": [{ "startOffset": 13314, "endOffset": 14115, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.set",
+      "ranges": [{ "startOffset": 14573, "endOffset": 16457, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getValueIndex",
+      "ranges": [{ "startOffset": 16461, "endOffset": 16820, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_remove",
+      "ranges": [{ "startOffset": 16823, "endOffset": 17036, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_insert",
+      "ranges": [{ "startOffset": 17039, "endOffset": 17291, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.resize",
+      "ranges": [{ "startOffset": 18132, "endOffset": 19026, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_resize",
+      "ranges": [{ "startOffset": 19030, "endOffset": 22686, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.reshape",
+      "ranges": [{ "startOffset": 23496, "endOffset": 26254, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.clone",
+      "ranges": [{ "startOffset": 26398, "endOffset": 26654, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.size",
+      "ranges": [{ "startOffset": 26797, "endOffset": 26864, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.map",
+      "ranges": [{ "startOffset": 27415, "endOffset": 28078, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_map",
+      "ranges": [{ "startOffset": 28232, "endOffset": 30437, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.forEach",
+      "ranges": [{ "startOffset": 31063, "endOffset": 32308, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.<computed>",
+      "ranges": [{ "startOffset": 32473, "endOffset": 32910, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.toArray",
+      "ranges": [{ "startOffset": 33081, "endOffset": 33175, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.valueOf",
+      "ranges": [{ "startOffset": 33354, "endOffset": 33449, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_toArray",
+      "ranges": [{ "startOffset": 33453, "endOffset": 34211, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.format",
+      "ranges": [{ "startOffset": 34696, "endOffset": 35522, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.toString",
+      "ranges": [{ "startOffset": 35675, "endOffset": 35727, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.toJSON",
+      "ranges": [{ "startOffset": 35872, "endOffset": 36070, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.diagonal",
+      "ranges": [{ "startOffset": 36373, "endOffset": 37858, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.fromJSON",
+      "ranges": [{ "startOffset": 38210, "endOffset": 38266, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.diagonal",
+      "ranges": [{ "startOffset": 38828, "endOffset": 42026, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix.swapRows",
+      "ranges": [{ "startOffset": 42295, "endOffset": 42858, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix._forEachRow",
+      "ranges": [{ "startOffset": 43230, "endOffset": 43468, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SparseMatrix._swapRows",
+      "ranges": [{ "startOffset": 43880, "endOffset": 45711, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

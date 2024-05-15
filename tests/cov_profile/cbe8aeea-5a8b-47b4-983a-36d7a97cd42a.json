@@ -1,0 +1,21 @@
+{
+  "scriptId": "841",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/dotPow.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2382, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 641, "endOffset": 2380, "count": 1 },
+        { "startOffset": 1209, "endOffset": 1446, "count": 10 },
+        { "startOffset": 1326, "endOffset": 1357, "count": 8 },
+        { "startOffset": 1359, "endOffset": 1436, "count": 6 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "scriptId": "941",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/Help.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3585, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [{ "startOffset": 301, "endOffset": 3562, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Help",
+      "ranges": [{ "startOffset": 724, "endOffset": 947, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Help.toString",
+      "ranges": [{ "startOffset": 1205, "endOffset": 2924, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Help.toJSON",
+      "ranges": [{ "startOffset": 3001, "endOffset": 3090, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Help.fromJSON",
+      "ranges": [{ "startOffset": 3246, "endOffset": 3423, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

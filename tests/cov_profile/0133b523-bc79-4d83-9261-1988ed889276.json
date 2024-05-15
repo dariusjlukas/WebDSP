@@ -1,0 +1,21 @@
+{
+  "scriptId": "1335",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/plain/number/probability.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2836, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "gammaNumber",
+      "ranges": [{ "startOffset": 151, "endOffset": 1114, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lgammaNumber",
+      "ranges": [{ "startOffset": 2066, "endOffset": 2801, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "scriptId": "843",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/solver/lsolve.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4488, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 333, "endOffset": 4486, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "SparseMatrixArrayMatrix",
+      "ranges": [{ "startOffset": 1289, "endOffset": 1382, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "DenseMatrixArrayMatrix",
+      "ranges": [{ "startOffset": 1419, "endOffset": 1510, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayArrayMatrix",
+      "ranges": [{ "startOffset": 1541, "endOffset": 1678, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_denseForwardSubstitution",
+      "ranges": [{ "startOffset": 1687, "endOffset": 2724, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_sparseForwardSubstitution",
+      "ranges": [{ "startOffset": 2727, "endOffset": 4484, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

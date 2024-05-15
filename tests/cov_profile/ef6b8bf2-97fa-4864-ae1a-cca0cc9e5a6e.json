@@ -1,0 +1,31 @@
+{
+  "scriptId": "905",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/set/setPowerset.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2084, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 273, "endOffset": 2082, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayMatrix",
+      "ranges": [{ "startOffset": 966, "endOffset": 1494, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_subset",
+      "ranges": [{ "startOffset": 1523, "endOffset": 1728, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_sort",
+      "ranges": [{ "startOffset": 1761, "endOffset": 2080, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

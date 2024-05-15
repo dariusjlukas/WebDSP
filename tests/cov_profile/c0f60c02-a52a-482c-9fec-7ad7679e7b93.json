@@ -1,0 +1,71 @@
+{
+  "scriptId": "1322",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/simplify/util.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7716, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ownKeys",
+      "ranges": [{ "startOffset": 69, "endOffset": 324, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_objectSpread",
+      "ranges": [{ "startOffset": 325, "endOffset": 764, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1128, "endOffset": 7714, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "hasProperty",
+      "ranges": [{ "startOffset": 2665, "endOffset": 4033, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isCommutative",
+      "ranges": [{ "startOffset": 4036, "endOffset": 4226, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isAssociative",
+      "ranges": [{ "startOffset": 4229, "endOffset": 4419, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "mergeContext",
+      "ranges": [{ "startOffset": 4534, "endOffset": 4880, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "flatten",
+      "ranges": [{ "startOffset": 5010, "endOffset": 5257, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "allChildren",
+      "ranges": [{ "startOffset": 5372, "endOffset": 5899, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "unflattenr",
+      "ranges": [{ "startOffset": 5985, "endOffset": 6478, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "unflattenl",
+      "ranges": [{ "startOffset": 6563, "endOffset": 7060, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createMakeNodeFunction",
+      "ranges": [{ "startOffset": 7063, "endOffset": 7476, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

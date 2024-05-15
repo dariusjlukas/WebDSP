@@ -1,0 +1,91 @@
+{
+  "scriptId": "1314",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/eigs/complexEigs.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 21849, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createComplexEigs",
+      "ranges": [{ "startOffset": 57, "endOffset": 21849, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "complexEigs",
+      "ranges": [{ "startOffset": 778, "endOffset": 2441, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "balance",
+      "ranges": [{ "startOffset": 2612, "endOffset": 5424, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "reduceToHessenberg",
+      "ranges": [{ "startOffset": 5681, "endOffset": 7774, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "iterateUntilTriangular",
+      "ranges": [{ "startOffset": 7945, "endOffset": 12659, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "findEigenvectors",
+      "ranges": [{ "startOffset": 13054, "endOffset": 15065, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "eigenvalues2x2",
+      "ranges": [{ "startOffset": 15158, "endOffset": 15541, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "jordanBase2x2",
+      "ranges": [{ "startOffset": 15893, "endOffset": 16891, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "inflateMatrix",
+      "ranges": [{ "startOffset": 17011, "endOffset": 17318, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "blockDiag",
+      "ranges": [{ "startOffset": 17562, "endOffset": 17924, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "indexOf",
+      "ranges": [{ "startOffset": 18328, "endOffset": 18481, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "inverseIterate",
+      "ranges": [{ "startOffset": 19058, "endOffset": 20046, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "randomOrthogonalVector",
+      "ranges": [{ "startOffset": 20329, "endOffset": 20813, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "orthogonalComplement",
+      "ranges": [{ "startOffset": 20903, "endOffset": 21215, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "norm",
+      "ranges": [{ "startOffset": 21394, "endOffset": 21449, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "normalize",
+      "ranges": [{ "startOffset": 21611, "endOffset": 21825, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

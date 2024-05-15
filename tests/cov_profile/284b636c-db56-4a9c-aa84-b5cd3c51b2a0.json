@@ -1,0 +1,21 @@
+{
+  "scriptId": "902",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/set/setIntersect.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2172, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 312, "endOffset": 2170, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayMatrixArrayMatrix",
+      "ranges": [{ "startOffset": 1120, "endOffset": 2162, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

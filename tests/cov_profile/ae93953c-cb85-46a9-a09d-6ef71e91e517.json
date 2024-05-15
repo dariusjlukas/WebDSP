@@ -1,0 +1,26 @@
+{
+  "scriptId": "860",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/relational/deepEqual.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1998, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 185, "endOffset": 1996, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "anyAny",
+      "ranges": [{ "startOffset": 1199, "endOffset": 1279, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_deepEqual",
+      "ranges": [{ "startOffset": 1494, "endOffset": 1994, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

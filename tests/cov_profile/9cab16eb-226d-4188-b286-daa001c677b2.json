@@ -1,0 +1,71 @@
+{
+  "scriptId": "749",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/fraction/function/fraction.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2831, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 245, "endOffset": 2829, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "number",
+      "ranges": [{ "startOffset": 1934, "endOffset": 2105, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "string",
+      "ranges": [{ "startOffset": 2119, "endOffset": 2175, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberNumber",
+      "ranges": [{ "startOffset": 2199, "endOffset": 2303, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_null",
+      "ranges": [{ "startOffset": 2315, "endOffset": 2370, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 2387, "endOffset": 2457, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Fraction",
+      "ranges": [{ "startOffset": 2473, "endOffset": 2544, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2574, "endOffset": 2678, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2582, "endOffset": 2678, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Object",
+      "ranges": [{ "startOffset": 2693, "endOffset": 2749, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2791, "endOffset": 2820, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2799, "endOffset": 2820, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

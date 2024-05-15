@@ -1,0 +1,26 @@
+{
+  "scriptId": "1292",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/matrix/utils/matAlgo07xSSf.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3405, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 269, "endOffset": 3403, "count": 10 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "matAlgo07xSSf",
+      "ranges": [{ "startOffset": 911, "endOffset": 3064, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_scatter",
+      "ranges": [{ "startOffset": 3068, "endOffset": 3401, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

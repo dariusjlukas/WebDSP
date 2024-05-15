@@ -1,0 +1,16 @@
+{
+  "scriptId": "1313",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/sparse/csIpvec.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 663, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "csIpvec",
+      "ranges": [{ "startOffset": 277, "endOffset": 663, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

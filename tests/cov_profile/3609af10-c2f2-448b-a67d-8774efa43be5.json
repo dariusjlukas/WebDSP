@@ -1,0 +1,21 @@
+{
+  "scriptId": "887",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/trigonometry/cos.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1200, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 212, "endOffset": 1198, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Complex | BigNumber",
+      "ranges": [{ "startOffset": 1168, "endOffset": 1180, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

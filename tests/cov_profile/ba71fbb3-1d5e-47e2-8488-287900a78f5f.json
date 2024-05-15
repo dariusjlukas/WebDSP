@@ -1,0 +1,109 @@
+{
+  "scriptId": "731",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/matrix/Matrix.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 8850, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [{ "startOffset": 168, "endOffset": 8827, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Matrix",
+      "ranges": [
+        { "startOffset": 1005, "endOffset": 1152, "count": 2 },
+        { "startOffset": 1060, "endOffset": 1148, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Matrix.storage",
+      "ranges": [{ "startOffset": 1501, "endOffset": 1651, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix.datatype",
+      "ranges": [{ "startOffset": 1893, "endOffset": 2044, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix.create",
+      "ranges": [{ "startOffset": 2223, "endOffset": 2321, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix.subset",
+      "ranges": [{ "startOffset": 2928, "endOffset": 3109, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix.get",
+      "ranges": [{ "startOffset": 3263, "endOffset": 3414, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix.set",
+      "ranges": [{ "startOffset": 3839, "endOffset": 4011, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix.resize",
+      "ranges": [{ "startOffset": 4637, "endOffset": 4804, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix.reshape",
+      "ranges": [{ "startOffset": 5216, "endOffset": 5384, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix.clone",
+      "ranges": [{ "startOffset": 5488, "endOffset": 5636, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix.size",
+      "ranges": [{ "startOffset": 5745, "endOffset": 5892, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix.map",
+      "ranges": [{ "startOffset": 6403, "endOffset": 6568, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix.forEach",
+      "ranges": [{ "startOffset": 6916, "endOffset": 7074, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix.<computed>",
+      "ranges": [{ "startOffset": 7217, "endOffset": 7357, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix.toArray",
+      "ranges": [{ "startOffset": 7488, "endOffset": 7638, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix.valueOf",
+      "ranges": [{ "startOffset": 7779, "endOffset": 7929, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix.format",
+      "ranges": [{ "startOffset": 8381, "endOffset": 8537, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix.toString",
+      "ranges": [{ "startOffset": 8656, "endOffset": 8807, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

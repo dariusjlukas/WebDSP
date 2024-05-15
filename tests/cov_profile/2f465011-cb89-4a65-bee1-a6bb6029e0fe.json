@@ -1,0 +1,31 @@
+{
+  "scriptId": "973",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/probability/permutations.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2463, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 296, "endOffset": 2268, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "numberNumber",
+      "ranges": [{ "startOffset": 1143, "endOffset": 1644, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumberBigNumber",
+      "ranges": [{ "startOffset": 1674, "endOffset": 2197, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isPositiveInteger",
+      "ranges": [{ "startOffset": 2394, "endOffset": 2463, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

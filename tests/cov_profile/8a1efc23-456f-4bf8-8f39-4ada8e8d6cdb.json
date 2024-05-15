@@ -1,0 +1,36 @@
+{
+  "scriptId": "1000",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/transform/map.transform.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2299, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isTransformFunction",
+      "ranges": [{ "startOffset": 433, "endOffset": 1568, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapTransform",
+      "ranges": [{ "startOffset": 679, "endOffset": 1212, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayFunction",
+      "ranges": [{ "startOffset": 1334, "endOffset": 1412, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixFunction",
+      "ranges": [{ "startOffset": 1438, "endOffset": 1537, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_map",
+      "ranges": [{ "startOffset": 1776, "endOffset": 2299, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

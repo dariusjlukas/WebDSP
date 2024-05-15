@@ -1,0 +1,106 @@
+{
+  "scriptId": "987",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/derivative.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 23198, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 380, "endOffset": 23196, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "plainDerivative",
+      "ranges": [{ "startOffset": 2274, "endOffset": 2604, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "derivative.toTex",
+      "ranges": [{ "startOffset": 3381, "endOffset": 3449, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "NodeSymbolNode",
+      "ranges": [{ "startOffset": 3682, "endOffset": 3944, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "NodeConstantNode",
+      "ranges": [{ "startOffset": 3972, "endOffset": 4217, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "NodeSymbolNodeConstantNode",
+      "ranges": [{ "startOffset": 4257, "endOffset": 4378, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stringStringNumber",
+      "ranges": [{ "startOffset": 4410, "endOffset": 4679, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ObjectConstantNodeString",
+      "ranges": [{ "startOffset": 5482, "endOffset": 5591, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ObjectSymbolNodeString",
+      "ranges": [{ "startOffset": 5627, "endOffset": 5937, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ObjectParenthesisNodeString",
+      "ranges": [{ "startOffset": 5978, "endOffset": 6107, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ObjectFunctionAssignmentNodeString",
+      "ranges": [{ "startOffset": 6155, "endOffset": 6399, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ObjectFunctionNodeOperatorNodeString",
+      "ranges": [{ "startOffset": 6452, "endOffset": 6891, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ConstantNodeObject",
+      "ranges": [{ "startOffset": 7302, "endOffset": 7379, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "SymbolNodeObject",
+      "ranges": [{ "startOffset": 7407, "endOffset": 7584, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ParenthesisNodeObject",
+      "ranges": [{ "startOffset": 7617, "endOffset": 7746, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FunctionAssignmentNodeObject",
+      "ranges": [{ "startOffset": 7786, "endOffset": 7988, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FunctionNodeObject",
+      "ranges": [{ "startOffset": 8018, "endOffset": 17857, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "OperatorNodeObject",
+      "ranges": [{ "startOffset": 17887, "endOffset": 22836, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createConstantNode",
+      "ranges": [{ "startOffset": 23049, "endOffset": 23173, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

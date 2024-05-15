@@ -1,0 +1,43 @@
+{
+  "scriptId": "1273",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/utils/function.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3330, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "memoize",
+      "ranges": [
+        { "startOffset": 751, "endOffset": 1622, "count": 5 },
+        { "startOffset": 876, "endOffset": 880, "count": 0 },
+        { "startOffset": 906, "endOffset": 932, "count": 4 },
+        { "startOffset": 933, "endOffset": 940, "count": 1 },
+        { "startOffset": 968, "endOffset": 984, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "memoize",
+      "ranges": [
+        { "startOffset": 1004, "endOffset": 1619, "count": 73 },
+        { "startOffset": 1068, "endOffset": 1192, "count": 1 },
+        { "startOffset": 1149, "endOffset": 1176, "count": 0 },
+        { "startOffset": 1366, "endOffset": 1453, "count": 57 },
+        { "startOffset": 1453, "endOffset": 1618, "count": 16 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "memoizeCompare",
+      "ranges": [{ "startOffset": 2249, "endOffset": 2838, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "maxArgumentCount",
+      "ranges": [{ "startOffset": 3117, "endOffset": 3330, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "scriptId": "730",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/matrix/Range.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 8378, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [{ "startOffset": 269, "endOffset": 8355, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Range",
+      "ranges": [{ "startOffset": 1222, "endOffset": 2307, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Range.parse",
+      "ranges": [{ "startOffset": 2743, "endOffset": 3249, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Range.clone",
+      "ranges": [{ "startOffset": 3350, "endOffset": 3422, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Range.size",
+      "ranges": [{ "startOffset": 3632, "endOffset": 3956, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Range.min",
+      "ranges": [{ "startOffset": 4100, "endOffset": 4390, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Range.max",
+      "ranges": [{ "startOffset": 4534, "endOffset": 4824, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Range.forEach",
+      "ranges": [{ "startOffset": 5189, "endOffset": 5548, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Range.map",
+      "ranges": [{ "startOffset": 5978, "endOffset": 6150, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Range.toArray",
+      "ranges": [{ "startOffset": 6294, "endOffset": 6431, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Range.valueOf",
+      "ranges": [{ "startOffset": 6590, "endOffset": 6697, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Range.format",
+      "ranges": [{ "startOffset": 7246, "endOffset": 7453, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Range.toString",
+      "ranges": [{ "startOffset": 7588, "endOffset": 7631, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Range.toJSON",
+      "ranges": [{ "startOffset": 7876, "endOffset": 8004, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Range.fromJSON",
+      "ranges": [{ "startOffset": 8260, "endOffset": 8336, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

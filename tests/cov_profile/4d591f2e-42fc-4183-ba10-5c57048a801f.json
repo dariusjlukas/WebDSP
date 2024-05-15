@@ -1,0 +1,131 @@
+{
+  "scriptId": "983",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/simplifyConstant.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 15920, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 626, "endOffset": 15918, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Node",
+      "ranges": [{ "startOffset": 2046, "endOffset": 2089, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "NodeObject",
+      "ranges": [{ "startOffset": 2111, "endOffset": 2208, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_removeFractions",
+      "ranges": [{ "startOffset": 2217, "endOffset": 2509, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_eval",
+      "ranges": [{ "startOffset": 2512, "endOffset": 2894, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "number",
+      "ranges": [{ "startOffset": 2962, "endOffset": 3102, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 3119, "endOffset": 3306, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Complex",
+      "ranges": [{ "startOffset": 3321, "endOffset": 3412, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "string",
+      "ranges": [{ "startOffset": 3426, "endOffset": 3486, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix",
+      "ranges": [{ "startOffset": 3500, "endOffset": 3588, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_ensureNode",
+      "ranges": [{ "startOffset": 3597, "endOffset": 3708, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_exactFraction",
+      "ranges": [{ "startOffset": 3847, "endOffset": 4305, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stringObject",
+      "ranges": [{ "startOffset": 4481, "endOffset": 4914, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FractionObject",
+      "ranges": [{ "startOffset": 4940, "endOffset": 4999, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumberObject",
+      "ranges": [{ "startOffset": 5061, "endOffset": 5121, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberObject",
+      "ranges": [{ "startOffset": 5180, "endOffset": 5262, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ComplexObject",
+      "ranges": [{ "startOffset": 5287, "endOffset": 5423, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixObject",
+      "ranges": [{ "startOffset": 5447, "endOffset": 5538, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayObject",
+      "ranges": [{ "startOffset": 5561, "endOffset": 5637, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "unaryMinusNode",
+      "ranges": [{ "startOffset": 5646, "endOffset": 5731, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_fractionToNode",
+      "ranges": [{ "startOffset": 5734, "endOffset": 6058, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_foldAccessor",
+      "ranges": [{ "startOffset": 6137, "endOffset": 9214, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "foldOp",
+      "ranges": [{ "startOffset": 9826, "endOffset": 10975, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "foldFraction",
+      "ranges": [{ "startOffset": 11036, "endOffset": 15889, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

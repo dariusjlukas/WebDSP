@@ -1,0 +1,134 @@
+{
+  "scriptId": "1020",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/utils/object.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 9509, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "clone",
+      "ranges": [
+        { "startOffset": 279, "endOffset": 979, "count": 8 },
+        { "startOffset": 378, "endOffset": 398, "count": 1 },
+        { "startOffset": 399, "endOffset": 420, "count": 1 },
+        { "startOffset": 421, "endOffset": 434, "count": 1 },
+        { "startOffset": 435, "endOffset": 453, "count": 1 },
+        { "startOffset": 455, "endOffset": 474, "count": 7 },
+        { "startOffset": 474, "endOffset": 566, "count": 1 },
+        { "startOffset": 566, "endOffset": 593, "count": 0 },
+        { "startOffset": 593, "endOffset": 706, "count": 1 },
+        { "startOffset": 706, "endOffset": 978, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 649, "endOffset": 700, "count": 7 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "mapObject",
+      "ranges": [{ "startOffset": 1168, "endOffset": 1361, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "extend",
+      "ranges": [
+        { "startOffset": 1493, "endOffset": 1624, "count": 7 },
+        { "startOffset": 1539, "endOffset": 1610, "count": 61 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "deepExtend",
+      "ranges": [{ "startOffset": 1763, "endOffset": 2664, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deepStrictEqual",
+      "ranges": [{ "startOffset": 2906, "endOffset": 3765, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "deepFlatten",
+      "ranges": [{ "startOffset": 3903, "endOffset": 4042, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_deepFlatten",
+      "ranges": [{ "startOffset": 4083, "endOffset": 4433, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "canDefineProperty",
+      "ranges": [{ "startOffset": 4575, "endOffset": 4865, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lazy",
+      "ranges": [{ "startOffset": 5263, "endOffset": 5689, "count": 306 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 5400, "endOffset": 5545, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "set",
+      "ranges": [{ "startOffset": 5556, "endOffset": 5635, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "traverse",
+      "ranges": [{ "startOffset": 5958, "endOffset": 6292, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hasOwnProperty",
+      "ranges": [{ "startOffset": 6388, "endOffset": 6498, "count": 1381 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isLegacyFactory",
+      "ranges": [{ "startOffset": 6966, "endOffset": 7059, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get",
+      "ranges": [{ "startOffset": 7198, "endOffset": 7530, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "set",
+      "ranges": [{ "startOffset": 7765, "endOffset": 8281, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "pick",
+      "ranges": [{ "startOffset": 8522, "endOffset": 8819, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "pickShallow",
+      "ranges": [
+        { "startOffset": 9035, "endOffset": 9283, "count": 688 },
+        { "startOffset": 9141, "endOffset": 9266, "count": 2094 },
+        { "startOffset": 9230, "endOffset": 9262, "count": 2088 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "values",
+      "ranges": [{ "startOffset": 9291, "endOffset": 9372, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isPath",
+      "ranges": [{ "startOffset": 9451, "endOffset": 9509, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

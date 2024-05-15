@@ -1,0 +1,46 @@
+{
+  "scriptId": "728",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/complex/Complex.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5562, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [{ "startOffset": 306, "endOffset": 5539, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Complex.toJSON",
+      "ranges": [{ "startOffset": 764, "endOffset": 863, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Complex.toPolar",
+      "ranges": [{ "startOffset": 1116, "endOffset": 1196, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Complex.format",
+      "ranges": [{ "startOffset": 1661, "endOffset": 2830, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Complex.fromPolar",
+      "ranges": [{ "startOffset": 3117, "endOffset": 4128, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Complex.fromJSON",
+      "ranges": [{ "startOffset": 4567, "endOffset": 4618, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Complex.compare",
+      "ranges": [{ "startOffset": 5301, "endOffset": 5518, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

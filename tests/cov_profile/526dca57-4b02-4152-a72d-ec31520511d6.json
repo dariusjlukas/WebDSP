@@ -1,0 +1,93 @@
+{
+  "scriptId": "942",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/chain/Chain.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6183, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [
+        { "startOffset": 343, "endOffset": 6160, "count": 1 },
+        { "startOffset": 5939, "endOffset": 6142, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Chain",
+      "ranges": [{ "startOffset": 1105, "endOffset": 1358, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Chain.done",
+      "ranges": [{ "startOffset": 1617, "endOffset": 1657, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Chain.valueOf",
+      "ranges": [{ "startOffset": 1807, "endOffset": 1847, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Chain.toString",
+      "ranges": [{ "startOffset": 1973, "endOffset": 2021, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Chain.toJSON",
+      "ranges": [{ "startOffset": 2130, "endOffset": 2214, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Chain.fromJSON",
+      "ranges": [{ "startOffset": 2491, "endOffset": 2546, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createProxy",
+      "ranges": [{ "startOffset": 2779, "endOffset": 2901, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createLazyProxy",
+      "ranges": [{ "startOffset": 3121, "endOffset": 3389, "count": 306 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "outerResolver",
+      "ranges": [{ "startOffset": 3196, "endOffset": 3383, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "chainify",
+      "ranges": [{ "startOffset": 3515, "endOffset": 4589, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Chain.createProxy",
+      "ranges": [
+        { "startOffset": 5111, "endOffset": 5544, "count": 2 },
+        { "startOffset": 5169, "endOffset": 5241, "count": 0 },
+        { "startOffset": 5503, "endOffset": 5534, "count": 306 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_loop",
+      "ranges": [{ "startOffset": 5267, "endOffset": 5442, "count": 306 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5405, "endOffset": 5422, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5958, "endOffset": 6136, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

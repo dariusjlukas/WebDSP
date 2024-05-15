@@ -1,0 +1,51 @@
+{
+  "scriptId": "756",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/unaryPlus.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1813, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 315, "endOffset": 1811, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Complex",
+      "ranges": [{ "startOffset": 1180, "endOffset": 1256, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 1273, "endOffset": 1346, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Fraction",
+      "ranges": [{ "startOffset": 1362, "endOffset": 1433, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Unit",
+      "ranges": [{ "startOffset": 1445, "endOffset": 1493, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1597, "endOffset": 1632, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1605, "endOffset": 1632, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "booleanString",
+      "ranges": [{ "startOffset": 1659, "endOffset": 1803, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

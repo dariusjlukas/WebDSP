@@ -1,0 +1,91 @@
+{
+  "scriptId": "982",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/simplify.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 40884, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 837, "endOffset": 40882, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Node, Map",
+      "ranges": [{ "startOffset": 7991, "endOffset": 8037, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Node, Map, Object",
+      "ranges": [{ "startOffset": 8064, "endOffset": 8128, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "removeParens",
+      "ranges": [{ "startOffset": 8464, "endOffset": 8637, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_canonicalizeRule",
+      "ranges": [{ "startOffset": 17494, "endOffset": 19859, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_buildRules",
+      "ranges": [{ "startOffset": 20282, "endOffset": 21055, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getExpandPlaceholderSymbol",
+      "ranges": [{ "startOffset": 21078, "endOffset": 21168, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_simplify",
+      "ranges": [{ "startOffset": 21171, "endOffset": 22810, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "mapRule",
+      "ranges": [{ "startOffset": 22813, "endOffset": 23205, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "applyRule",
+      "ranges": [{ "startOffset": 23712, "endOffset": 28079, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getSplits",
+      "ranges": [{ "startOffset": 28316, "endOffset": 29172, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "mergeMatch",
+      "ranges": [{ "startOffset": 29273, "endOffset": 30220, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "combineChildMatches",
+      "ranges": [{ "startOffset": 30407, "endOffset": 30804, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "mergeChildMatches",
+      "ranges": [{ "startOffset": 31035, "endOffset": 31458, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_ruleMatch",
+      "ranges": [{ "startOffset": 32043, "endOffset": 39579, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_exactMatch",
+      "ranges": [{ "startOffset": 39923, "endOffset": 40861, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

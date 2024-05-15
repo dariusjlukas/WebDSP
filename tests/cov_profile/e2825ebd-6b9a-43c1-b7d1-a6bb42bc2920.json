@@ -1,0 +1,34 @@
+{
+  "scriptId": "1357",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/@babel/runtime/7.23.9/helpers/extends.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 922, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 921, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 194, "endOffset": 857, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_extends",
+      "ranges": [
+        { "startOffset": 254, "endOffset": 750, "count": 8 },
+        { "startOffset": 343, "endOffset": 627, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "module.exports._extends",
+      "ranges": [{ "startOffset": 345, "endOffset": 627, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

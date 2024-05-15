@@ -1,0 +1,16 @@
+{
+  "scriptId": "1320",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/probability/util/randomMatrix.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 508, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "randomMatrix",
+      "ranges": [{ "startOffset": 160, "endOffset": 508, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

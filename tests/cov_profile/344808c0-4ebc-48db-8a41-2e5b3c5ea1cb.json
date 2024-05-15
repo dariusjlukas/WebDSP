@@ -1,0 +1,146 @@
+{
+  "scriptId": "1330",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/plain/number/arithmetic.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6967, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "absNumber",
+      "ranges": [{ "startOffset": 152, "endOffset": 199, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "addNumber",
+      "ranges": [{ "startOffset": 233, "endOffset": 277, "count": 63 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "subtractNumber",
+      "ranges": [{ "startOffset": 311, "endOffset": 360, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "multiplyNumber",
+      "ranges": [{ "startOffset": 399, "endOffset": 448, "count": 216 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "divideNumber",
+      "ranges": [{ "startOffset": 487, "endOffset": 534, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "unaryMinusNumber",
+      "ranges": [{ "startOffset": 571, "endOffset": 616, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "unaryPlusNumber",
+      "ranges": [{ "startOffset": 657, "endOffset": 700, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cbrtNumber",
+      "ranges": [{ "startOffset": 740, "endOffset": 784, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cubeNumber",
+      "ranges": [{ "startOffset": 819, "endOffset": 865, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "expNumber",
+      "ranges": [{ "startOffset": 900, "endOffset": 947, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "expm1Number",
+      "ranges": [{ "startOffset": 981, "endOffset": 1027, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "gcdNumber",
+      "ranges": [{ "startOffset": 1215, "endOffset": 1513, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lcmNumber",
+      "ranges": [{ "startOffset": 1697, "endOffset": 2114, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "logNumber",
+      "ranges": [{ "startOffset": 2308, "endOffset": 2411, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "log10Number",
+      "ranges": [{ "startOffset": 2516, "endOffset": 2562, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "log2Number",
+      "ranges": [{ "startOffset": 2694, "endOffset": 2738, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "log1pNumber",
+      "ranges": [{ "startOffset": 2875, "endOffset": 2921, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "modNumber",
+      "ranges": [{ "startOffset": 3085, "endOffset": 3324, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "nthRootNumber",
+      "ranges": [{ "startOffset": 3529, "endOffset": 4718, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "signNumber",
+      "ranges": [{ "startOffset": 4726, "endOffset": 4770, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sqrtNumber",
+      "ranges": [{ "startOffset": 4805, "endOffset": 4854, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "squareNumber",
+      "ranges": [{ "startOffset": 4889, "endOffset": 4933, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "xgcdNumber",
+      "ranges": [{ "startOffset": 5094, "endOffset": 5765, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "powNumber",
+      "ranges": [
+        { "startOffset": 5932, "endOffset": 6163, "count": 73 },
+        { "startOffset": 6066, "endOffset": 6083, "count": 1 },
+        { "startOffset": 6097, "endOffset": 6115, "count": 0 },
+        { "startOffset": 6117, "endOffset": 6136, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "roundNumber",
+      "ranges": [{ "startOffset": 6443, "endOffset": 6779, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "normNumber",
+      "ranges": [{ "startOffset": 6892, "endOffset": 6940, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

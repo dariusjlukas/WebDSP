@@ -1,0 +1,26 @@
+{
+  "scriptId": "998",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/transform/forEach.transform.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2080, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isTransformFunction",
+      "ranges": [{ "startOffset": 445, "endOffset": 2045, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "forEachTransform",
+      "ranges": [{ "startOffset": 695, "endOffset": 1270, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrixFunction",
+      "ranges": [{ "startOffset": 1409, "endOffset": 2010, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

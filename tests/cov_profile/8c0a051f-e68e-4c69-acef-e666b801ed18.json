@@ -1,0 +1,21 @@
+{
+  "scriptId": "831",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/string/print.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2916, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 316, "endOffset": 2141, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_print",
+      "ranges": [{ "startOffset": 2344, "endOffset": 2916, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

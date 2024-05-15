@@ -1,0 +1,306 @@
+{
+  "scriptId": "931",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/parse.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 48733, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 710, "endOffset": 48731, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "string",
+      "ranges": [{ "startOffset": 2411, "endOffset": 2487, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrix",
+      "ranges": [{ "startOffset": 2511, "endOffset": 2597, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stringObject",
+      "ranges": [{ "startOffset": 2621, "endOffset": 2793, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseMultiple",
+      "ranges": [{ "startOffset": 2847, "endOffset": 3276, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "initialState",
+      "ranges": [{ "startOffset": 4542, "endOffset": 5132, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "currentString",
+      "ranges": [{ "startOffset": 5366, "endOffset": 5466, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "currentCharacter",
+      "ranges": [{ "startOffset": 5628, "endOffset": 5702, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "next",
+      "ranges": [{ "startOffset": 5913, "endOffset": 5958, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "prevCharacter",
+      "ranges": [{ "startOffset": 6073, "endOffset": 6161, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "nextCharacter",
+      "ranges": [{ "startOffset": 6272, "endOffset": 6360, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getToken",
+      "ranges": [{ "startOffset": 6505, "endOffset": 12480, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getTokenSkipNewline",
+      "ranges": [{ "startOffset": 12540, "endOffset": 12701, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "openParams",
+      "ranges": [{ "startOffset": 12815, "endOffset": 12873, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "closeParams",
+      "ranges": [{ "startOffset": 12963, "endOffset": 13022, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isAlpha",
+      "ranges": [{ "startOffset": 13856, "endOffset": 14010, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isValidLatinOrGreek",
+      "ranges": [{ "startOffset": 14181, "endOffset": 14292, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isValidMathSymbol",
+      "ranges": [{ "startOffset": 14807, "endOffset": 15103, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isWhitespace",
+      "ranges": [{ "startOffset": 15307, "endOffset": 15512, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isDecimalMark",
+      "ranges": [{ "startOffset": 15764, "endOffset": 15875, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isDigitDot",
+      "ranges": [{ "startOffset": 16037, "endOffset": 16111, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isDigit",
+      "ranges": [{ "startOffset": 16263, "endOffset": 16321, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isHexDigit",
+      "ranges": [{ "startOffset": 16480, "endOffset": 16589, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseStart",
+      "ranges": [{ "startOffset": 16706, "endOffset": 17477, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseBlock",
+      "ranges": [{ "startOffset": 17729, "endOffset": 18905, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseAssignment",
+      "ranges": [{ "startOffset": 19157, "endOffset": 20471, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseConditional",
+      "ranges": [{ "startOffset": 20663, "endOffset": 21632, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseLogicalOr",
+      "ranges": [{ "startOffset": 21713, "endOffset": 22013, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseLogicalXor",
+      "ranges": [{ "startOffset": 22105, "endOffset": 22409, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseLogicalAnd",
+      "ranges": [{ "startOffset": 22492, "endOffset": 22794, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseBitwiseOr",
+      "ranges": [{ "startOffset": 22874, "endOffset": 23175, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseBitwiseXor",
+      "ranges": [{ "startOffset": 23272, "endOffset": 23577, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseBitwiseAnd",
+      "ranges": [{ "startOffset": 23658, "endOffset": 23961, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseRelational",
+      "ranges": [{ "startOffset": 24054, "endOffset": 24893, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseShift",
+      "ranges": [{ "startOffset": 25033, "endOffset": 25506, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseConversion",
+      "ranges": [{ "startOffset": 25601, "endOffset": 26298, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseRange",
+      "ranges": [{ "startOffset": 26429, "endOffset": 27678, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseAddSubtract",
+      "ranges": [{ "startOffset": 27754, "endOffset": 28369, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseMultiplyDivide",
+      "ranges": [{ "startOffset": 28455, "endOffset": 29078, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseImplicitMultiplication",
+      "ranges": [{ "startOffset": 29162, "endOffset": 29974, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseRule2",
+      "ranges": [{ "startOffset": 30405, "endOffset": 31901, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parsePercentage",
+      "ranges": [{ "startOffset": 31979, "endOffset": 32678, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseUnary",
+      "ranges": [{ "startOffset": 32788, "endOffset": 33226, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parsePow",
+      "ranges": [{ "startOffset": 33339, "endOffset": 33756, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseLeftHandOperators",
+      "ranges": [{ "startOffset": 33865, "endOffset": 34322, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseCustomNodes",
+      "ranges": [{ "startOffset": 35199, "endOffset": 36215, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseSymbol",
+      "ranges": [{ "startOffset": 36329, "endOffset": 37039, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseAccessors",
+      "ranges": [{ "startOffset": 37642, "endOffset": 40196, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseString",
+      "ranges": [{ "startOffset": 40296, "endOffset": 40645, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseStringToken",
+      "ranges": [{ "startOffset": 40799, "endOffset": 42162, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseMatrix",
+      "ranges": [{ "startOffset": 42239, "endOffset": 44024, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseRow",
+      "ranges": [{ "startOffset": 44140, "endOffset": 44537, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseObject",
+      "ranges": [{ "startOffset": 44670, "endOffset": 46059, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseNumber",
+      "ranges": [{ "startOffset": 46134, "endOffset": 46422, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseParentheses",
+      "ranges": [{ "startOffset": 46494, "endOffset": 47046, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parseEnd",
+      "ranges": [{ "startOffset": 47172, "endOffset": 47431, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "col",
+      "ranges": [{ "startOffset": 47833, "endOffset": 47907, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createSyntaxError",
+      "ranges": [{ "startOffset": 48060, "endOffset": 48234, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "createError",
+      "ranges": [{ "startOffset": 48381, "endOffset": 48549, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

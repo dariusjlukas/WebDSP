@@ -1,0 +1,11 @@
+{
+  "scriptId": "1203",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/embeddedDocs/function/set/setPowerset.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 383, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

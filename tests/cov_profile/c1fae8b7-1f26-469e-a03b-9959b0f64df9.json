@@ -1,0 +1,57 @@
+{
+  "scriptId": "306",
+  "url": "file:///home/darius/dev/javascript/dspjs-deno/tests/dsp.test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2817, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 612, "endOffset": 1101, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1152, "endOffset": 1305, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1348, "endOffset": 1531, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1454, "endOffset": 1475, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 1565, "endOffset": 2137, "count": 1 },
+        { "startOffset": 1730, "endOffset": 1991, "count": 256 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 2162, "endOffset": 2654, "count": 1 },
+        { "startOffset": 2328, "endOffset": 2508, "count": 256 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2691, "endOffset": 2814, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 2712, "endOffset": 2776, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

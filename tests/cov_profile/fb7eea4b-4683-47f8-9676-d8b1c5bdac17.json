@@ -1,0 +1,34 @@
+{
+  "scriptId": "727",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/bignumber/BigNumber.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1521, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [
+        { "startOffset": 223, "endOffset": 1498, "count": 1 },
+        { "startOffset": 1206, "endOffset": 1476, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BigNumber.toJSON",
+      "ranges": [{ "startOffset": 806, "endOffset": 899, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber.fromJSON",
+      "ranges": [{ "startOffset": 1135, "endOffset": 1194, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1311, "endOffset": 1470, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

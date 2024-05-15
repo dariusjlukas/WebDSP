@@ -1,0 +1,131 @@
+{
+  "scriptId": "762",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/ceil.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5539, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 720, "endOffset": 1446, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "number",
+      "ranges": [{ "startOffset": 818, "endOffset": 975, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberNumber",
+      "ranges": [{ "startOffset": 999, "endOffset": 1438, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1516, "endOffset": 5537, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Complex",
+      "ranges": [{ "startOffset": 3496, "endOffset": 3546, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ComplexNumber",
+      "ranges": [{ "startOffset": 3571, "endOffset": 3631, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ComplexBigNumber",
+      "ranges": [{ "startOffset": 3659, "endOffset": 3733, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 3750, "endOffset": 3909, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumberBigNumber",
+      "ranges": [{ "startOffset": 3939, "endOffset": 4159, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Fraction",
+      "ranges": [{ "startOffset": 4175, "endOffset": 4226, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FractionNumber",
+      "ranges": [{ "startOffset": 4252, "endOffset": 4313, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FractionBigNumber",
+      "ranges": [{ "startOffset": 4342, "endOffset": 4417, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4459, "endOffset": 4575, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4467, "endOffset": 4575, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4629, "endOffset": 4761, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4637, "endOffset": 4761, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4822, "endOffset": 4894, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4830, "endOffset": 4894, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4954, "endOffset": 5025, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4962, "endOffset": 5025, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5100, "endOffset": 5223, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5108, "endOffset": 5223, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5299, "endOffset": 5528, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 5307, "endOffset": 5528, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

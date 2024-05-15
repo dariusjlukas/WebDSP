@@ -1,0 +1,11 @@
+{
+  "scriptId": "1270",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/complex.js/2.1.1/complex.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 253, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

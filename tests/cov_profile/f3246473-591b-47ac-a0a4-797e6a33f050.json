@@ -1,0 +1,26 @@
+{
+  "scriptId": "828",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/string/bin.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 929, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 539, "endOffset": 927, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "numberBigNumber",
+      "ranges": [{ "startOffset": 640, "endOffset": 734, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberBigNumberNumberBigNumber",
+      "ranges": [{ "startOffset": 782, "endOffset": 919, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

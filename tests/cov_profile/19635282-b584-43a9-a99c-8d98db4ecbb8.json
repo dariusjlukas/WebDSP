@@ -1,0 +1,31 @@
+{
+  "scriptId": "772",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/mod.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3398, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 780, "endOffset": 3396, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "BigNumberBigNumber",
+      "ranges": [{ "startOffset": 2531, "endOffset": 2633, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "FractionFraction",
+      "ranges": [{ "startOffset": 2661, "endOffset": 2762, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_modNumber",
+      "ranges": [{ "startOffset": 3051, "endOffset": 3394, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

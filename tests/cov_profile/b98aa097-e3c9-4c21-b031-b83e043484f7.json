@@ -1,0 +1,21 @@
+{
+  "scriptId": "1012",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/transform/cumsum.transform.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1271, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isTransformFunction",
+      "ranges": [{ "startOffset": 618, "endOffset": 1236, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "any",
+      "ranges": [{ "startOffset": 789, "endOffset": 1228, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

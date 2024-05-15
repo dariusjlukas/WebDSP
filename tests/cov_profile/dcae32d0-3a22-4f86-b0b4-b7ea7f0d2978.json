@@ -1,0 +1,76 @@
+{
+  "scriptId": "803",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/identity.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4614, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 385, "endOffset": 4612, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_",
+      "ranges": [{ "startOffset": 1500, "endOffset": 1579, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "string",
+      "ranges": [{ "startOffset": 1593, "endOffset": 1653, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberBigNumber",
+      "ranges": [{ "startOffset": 1681, "endOffset": 1805, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberBigNumberString",
+      "ranges": [{ "startOffset": 1841, "endOffset": 1937, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberBigNumberNumberBigNumber",
+      "ranges": [{ "startOffset": 1985, "endOffset": 2130, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberBigNumberNumberBigNumberString",
+      "ranges": [{ "startOffset": 2186, "endOffset": 2303, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array",
+      "ranges": [{ "startOffset": 2316, "endOffset": 2380, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayString",
+      "ranges": [{ "startOffset": 2403, "endOffset": 2489, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix",
+      "ranges": [{ "startOffset": 2503, "endOffset": 2594, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixString",
+      "ranges": [{ "startOffset": 2618, "endOffset": 2715, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_identityVector",
+      "ranges": [{ "startOffset": 2724, "endOffset": 3073, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_identity",
+      "ranges": [{ "startOffset": 3263, "endOffset": 4610, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

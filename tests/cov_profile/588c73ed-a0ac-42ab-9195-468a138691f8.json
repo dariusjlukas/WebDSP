@@ -1,0 +1,21 @@
+{
+  "scriptId": "940",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/polynomialRoot.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5407, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 304, "endOffset": 5405, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "number|Complex, ...number|Complex",
+      "ranges": [{ "startOffset": 2429, "endOffset": 5397, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "scriptId": "1347",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/seedrandom/3.0.5/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 251, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

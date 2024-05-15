@@ -1,0 +1,16 @@
+{
+  "scriptId": "1349",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/sparse/csFkeep.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1736, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "csFkeep",
+      "ranges": [{ "startOffset": 707, "endOffset": 1736, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

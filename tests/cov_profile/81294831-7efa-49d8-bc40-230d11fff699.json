@@ -1,0 +1,21 @@
+{
+  "scriptId": "1284",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/matrix/utils/matAlgo10xSids.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2874, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 204, "endOffset": 2872, "count": 8 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "matAlgo10xSids",
+      "ranges": [{ "startOffset": 1008, "endOffset": 2869, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

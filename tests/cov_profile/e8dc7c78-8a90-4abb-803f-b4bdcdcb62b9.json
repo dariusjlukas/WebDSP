@@ -1,0 +1,101 @@
+{
+  "scriptId": "867",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/matrix/MatrixIndex.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 9126, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [{ "startOffset": 371, "endOffset": 8626, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Index",
+      "ranges": [{ "startOffset": 1142, "endOffset": 2814, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_createImmutableMatrix",
+      "ranges": [{ "startOffset": 2927, "endOffset": 3267, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Index.clone",
+      "ranges": [{ "startOffset": 3388, "endOffset": 3581, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Index.create",
+      "ranges": [{ "startOffset": 3774, "endOffset": 3876, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Index.size",
+      "ranges": [{ "startOffset": 4047, "endOffset": 4263, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Index.max",
+      "ranges": [{ "startOffset": 4411, "endOffset": 4645, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Index.min",
+      "ranges": [{ "startOffset": 4793, "endOffset": 5027, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Index.forEach",
+      "ranges": [{ "startOffset": 5350, "endOffset": 5492, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Index.dimension",
+      "ranges": [{ "startOffset": 5707, "endOffset": 5769, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Index.isObjectProperty",
+      "ranges": [{ "startOffset": 5950, "endOffset": 6052, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Index.getObjectProperty",
+      "ranges": [{ "startOffset": 6243, "endOffset": 6325, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Index.isScalar",
+      "ranges": [{ "startOffset": 6620, "endOffset": 6664, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Index.toArray",
+      "ranges": [{ "startOffset": 6865, "endOffset": 7117, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Index.toString",
+      "ranges": [{ "startOffset": 7525, "endOffset": 7880, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Index.toJSON",
+      "ranges": [{ "startOffset": 8157, "endOffset": 8252, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Index.fromJSON",
+      "ranges": [{ "startOffset": 8544, "endOffset": 8607, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_booleansArrayToNumbersForIndex",
+      "ranges": [{ "startOffset": 8843, "endOffset": 9126, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

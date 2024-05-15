@@ -1,0 +1,11 @@
+{
+  "scriptId": "433",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/entry/dependenciesAny/dependenciesCoulomb.generated.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 375, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

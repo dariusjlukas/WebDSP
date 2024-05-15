@@ -1,0 +1,11 @@
+{
+  "scriptId": "1246",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/embeddedDocs/function/trigonometry/sinh.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 211, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

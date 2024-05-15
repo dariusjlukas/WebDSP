@@ -1,0 +1,36 @@
+{
+  "scriptId": "1303",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/utils/bignumber/constants.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1416, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "memoize.hasher.hasher",
+      "ranges": [{ "startOffset": 203, "endOffset": 260, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "memoize.hasher.hasher",
+      "ranges": [{ "startOffset": 474, "endOffset": 562, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "memoize.hasher.hasher",
+      "ranges": [{ "startOffset": 744, "endOffset": 797, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "memoize.hasher.hasher",
+      "ranges": [{ "startOffset": 995, "endOffset": 1067, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hasher",
+      "ranges": [{ "startOffset": 1363, "endOffset": 1416, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

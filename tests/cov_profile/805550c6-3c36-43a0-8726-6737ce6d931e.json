@@ -1,0 +1,36 @@
+{
+  "scriptId": "736",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/utils/isNumeric.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1592, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 229, "endOffset": 1590, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "number | BigNumber | Fraction | boolean",
+      "ranges": [{ "startOffset": 1430, "endOffset": 1440, "count": 46 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Complex | Unit | string | null | undefined | Node",
+      "ranges": [{ "startOffset": 1499, "endOffset": 1510, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1552, "endOffset": 1581, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1560, "endOffset": 1581, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

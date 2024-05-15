@@ -1,0 +1,51 @@
+{
+  "scriptId": "1291",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/utils/bignumber/bitwise.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 9056, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "bitAndBigNumber",
+      "ranges": [{ "startOffset": 377, "endOffset": 1362, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "bitNotBigNumber",
+      "ranges": [{ "startOffset": 1474, "endOffset": 1867, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "bitOrBigNumber",
+      "ranges": [{ "startOffset": 2230, "endOffset": 3024, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "bitwise",
+      "ranges": [{ "startOffset": 3184, "endOffset": 4731, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "decCoefficientToBinaryString",
+      "ranges": [{ "startOffset": 4792, "endOffset": 5936, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "bitXor",
+      "ranges": [{ "startOffset": 6269, "endOffset": 7069, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "leftShiftBigNumber",
+      "ranges": [{ "startOffset": 7355, "endOffset": 7970, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "rightArithShiftBigNumber",
+      "ranges": [{ "startOffset": 8308, "endOffset": 9056, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

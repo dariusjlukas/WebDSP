@@ -1,0 +1,16 @@
+{
+  "scriptId": "1277",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/utils/complex.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 404, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "complexEquals",
+      "ranges": [{ "startOffset": 284, "endOffset": 404, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

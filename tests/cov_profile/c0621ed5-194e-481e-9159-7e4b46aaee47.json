@@ -1,0 +1,46 @@
+{
+  "scriptId": "989",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/signal/zpk2tf.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2507, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 210, "endOffset": 2505, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayArrayNumber",
+      "ranges": [{ "startOffset": 889, "endOffset": 962, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayArray",
+      "ranges": [{ "startOffset": 983, "endOffset": 1047, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixMatrixNumber",
+      "ranges": [{ "startOffset": 1077, "endOffset": 1172, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixMatrix",
+      "ranges": [{ "startOffset": 1195, "endOffset": 1281, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_zpk2tf",
+      "ranges": [{ "startOffset": 1290, "endOffset": 2189, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_multiply",
+      "ranges": [{ "startOffset": 2192, "endOffset": 2503, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

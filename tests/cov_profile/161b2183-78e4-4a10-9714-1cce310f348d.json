@@ -1,0 +1,11 @@
+{
+  "scriptId": "1219",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/embeddedDocs/function/statistics/std.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 600, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "scriptId": "1371",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/seedrandom/3.0.5/lib/xor4096.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4880, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 4879, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 194, "endOffset": 4815, "count": 1 },
+        { "startOffset": 4768, "endOffset": 4777, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 1477, "endOffset": 4596, "count": 1 },
+        { "startOffset": 4487, "endOffset": 4593, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "XorGen",
+      "ranges": [{ "startOffset": 1513, "endOffset": 3756, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "copy",
+      "ranges": [{ "startOffset": 3758, "endOffset": 3840, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "impl",
+      "ranges": [{ "startOffset": 3843, "endOffset": 4427, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 4530, "endOffset": 4557, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

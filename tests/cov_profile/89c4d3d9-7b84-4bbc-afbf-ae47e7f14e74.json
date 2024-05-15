@@ -1,0 +1,59 @@
+{
+  "scriptId": "974",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/probability/pickRandom.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5277, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 348, "endOffset": 5275, "count": 1 },
+        { "startOffset": 503, "endOffset": 656, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 522, "endOffset": 650, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrix",
+      "ranges": [{ "startOffset": 2535, "endOffset": 2615, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrixObject",
+      "ranges": [{ "startOffset": 2647, "endOffset": 2747, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrixNumber",
+      "ranges": [{ "startOffset": 2779, "endOffset": 2895, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrixArrayMatrix",
+      "ranges": [{ "startOffset": 2935, "endOffset": 3058, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrixArrayMatrixNumber",
+      "ranges": [{ "startOffset": 3106, "endOffset": 3259, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrixNumberArrayMatrix",
+      "ranges": [{ "startOffset": 3307, "endOffset": 3460, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_pickRandom",
+      "ranges": [{ "startOffset": 3682, "endOffset": 5273, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

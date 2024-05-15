@@ -1,0 +1,16 @@
+{
+  "scriptId": "356",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/core/create.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7587, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "create",
+      "ranges": [{ "startOffset": 3296, "endOffset": 7587, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

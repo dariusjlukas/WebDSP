@@ -1,0 +1,26 @@
+{
+  "scriptId": "1309",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/utils/latex.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 11275, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "numeric",
+      "ranges": [{ "startOffset": 9665, "endOffset": 9839, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "escapeLatex",
+      "ranges": [{ "startOffset": 10762, "endOffset": 10863, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toSymbol",
+      "ranges": [{ "startOffset": 10923, "endOffset": 11275, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

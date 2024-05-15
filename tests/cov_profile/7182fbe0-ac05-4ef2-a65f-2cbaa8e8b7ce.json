@@ -1,0 +1,16 @@
+{
+  "scriptId": "351",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/error/IndexError.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1201, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "IndexError",
+      "ranges": [{ "startOffset": 321, "endOffset": 1029, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

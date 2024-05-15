@@ -1,0 +1,37 @@
+{
+  "scriptId": "994",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/unit/physicalConstants.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6941, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "unitFactory",
+      "ranges": [{ "startOffset": 5922, "endOffset": 6527, "count": 47 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 6061, "endOffset": 6523, "count": 46 },
+        { "startOffset": 6385, "endOffset": 6410, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "numberFactory",
+      "ranges": [{ "startOffset": 6674, "endOffset": 6941, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 6795, "endOffset": 6937, "count": 4 },
+        { "startOffset": 6902, "endOffset": 6924, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

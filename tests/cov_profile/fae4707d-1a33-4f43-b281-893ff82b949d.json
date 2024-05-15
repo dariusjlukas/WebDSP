@@ -1,0 +1,91 @@
+{
+  "scriptId": "798",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/diag.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5460, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 354, "endOffset": 5458, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Array",
+      "ranges": [{ "startOffset": 2043, "endOffset": 2114, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayNumber",
+      "ranges": [{ "startOffset": 2137, "endOffset": 2217, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayBigNumber",
+      "ranges": [{ "startOffset": 2243, "endOffset": 2337, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayString",
+      "ranges": [{ "startOffset": 2360, "endOffset": 2447, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayNumberString",
+      "ranges": [{ "startOffset": 2478, "endOffset": 2574, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayBigNumberString",
+      "ranges": [{ "startOffset": 2608, "endOffset": 2718, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix",
+      "ranges": [{ "startOffset": 2732, "endOffset": 2807, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixNumber",
+      "ranges": [{ "startOffset": 2831, "endOffset": 2915, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixBigNumber",
+      "ranges": [{ "startOffset": 2942, "endOffset": 3040, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixString",
+      "ranges": [{ "startOffset": 3064, "endOffset": 3148, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixNumberString",
+      "ranges": [{ "startOffset": 3180, "endOffset": 3273, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixBigNumberString",
+      "ranges": [{ "startOffset": 3308, "endOffset": 3415, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_diag",
+      "ranges": [{ "startOffset": 3708, "endOffset": 4225, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_createDiagonalMatrix",
+      "ranges": [{ "startOffset": 4228, "endOffset": 4709, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_getDiagonal",
+      "ranges": [{ "startOffset": 4712, "endOffset": 5456, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

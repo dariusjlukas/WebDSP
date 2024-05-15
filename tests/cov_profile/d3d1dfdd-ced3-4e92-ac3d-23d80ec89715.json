@@ -1,0 +1,21 @@
+{
+  "scriptId": "1283",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/matrix/utils/matAlgo04xSidSid.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 5222, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 275, "endOffset": 5220, "count": 4 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "matAlgo04xSidSid",
+      "ranges": [{ "startOffset": 1069, "endOffset": 5217, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

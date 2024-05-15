@@ -1,0 +1,101 @@
+{
+  "scriptId": "925",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/node/OperatorNode.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 25099, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [{ "startOffset": 717, "endOffset": 25060, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "startsWithConstant",
+      "ranges": [{ "startOffset": 957, "endOffset": 1309, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "calculateNecessaryParentheses",
+      "ranges": [{ "startOffset": 1765, "endOffset": 9395, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "OperatorNode",
+      "ranges": [{ "startOffset": 9898, "endOffset": 10526, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get type",
+      "ranges": [{ "startOffset": 10531, "endOffset": 10568, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "get isOperatorNode",
+      "ranges": [{ "startOffset": 10573, "endOffset": 10620, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_compile",
+      "ranges": [{ "startOffset": 11441, "endOffset": 12988, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "forEach",
+      "ranges": [{ "startOffset": 13152, "endOffset": 13293, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "map",
+      "ranges": [{ "startOffset": 13616, "endOffset": 13887, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clone",
+      "ranges": [{ "startOffset": 13990, "endOffset": 14108, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isUnary",
+      "ranges": [{ "startOffset": 14321, "endOffset": 14375, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isBinary",
+      "ranges": [{ "startOffset": 14592, "endOffset": 14647, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_toString",
+      "ranges": [{ "startOffset": 14762, "endOffset": 17088, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toJSON",
+      "ranges": [{ "startOffset": 17180, "endOffset": 17382, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fromJSON",
+      "ranges": [{ "startOffset": 17791, "endOffset": 17907, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_toHTML",
+      "ranges": [{ "startOffset": 18020, "endOffset": 21456, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_toTex",
+      "ranges": [{ "startOffset": 21569, "endOffset": 24852, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getIdentifier",
+      "ranges": [{ "startOffset": 24921, "endOffset": 24984, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

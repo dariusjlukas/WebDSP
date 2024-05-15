@@ -1,0 +1,40 @@
+{
+  "scriptId": "1329",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/utils/lruQueue.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1285, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "lruQueue",
+      "ranges": [{ "startOffset": 119, "endOffset": 1285, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "del",
+      "ranges": [{ "startOffset": 275, "endOffset": 596, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "hit",
+      "ranges": [
+        { "startOffset": 645, "endOffset": 1116, "count": 73 },
+        { "startOffset": 796, "endOffset": 928, "count": 16 },
+        { "startOffset": 858, "endOffset": 928, "count": 0 },
+        { "startOffset": 928, "endOffset": 988, "count": 57 },
+        { "startOffset": 988, "endOffset": 1005, "count": 54 },
+        { "startOffset": 1005, "endOffset": 1073, "count": 3 },
+        { "startOffset": 1073, "endOffset": 1086, "count": 5 },
+        { "startOffset": 1086, "endOffset": 1115, "count": 3 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "clear",
+      "ranges": [{ "startOffset": 1146, "endOffset": 1278, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

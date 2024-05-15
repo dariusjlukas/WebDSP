@@ -1,0 +1,11 @@
+{
+  "scriptId": "1156",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/embeddedDocs/function/matrix/matrixFromFunction.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 656, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

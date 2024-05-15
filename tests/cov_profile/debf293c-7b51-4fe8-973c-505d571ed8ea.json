@@ -1,0 +1,11 @@
+{
+  "scriptId": "1030",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/embeddedDocs/constants/LOG10E.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 228, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "scriptId": "729",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/fraction/Fraction.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1129, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [{ "startOffset": 208, "endOffset": 1106, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Fraction.toJSON",
+      "ranges": [{ "startOffset": 694, "endOffset": 799, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Fraction.fromJSON",
+      "ranges": [{ "startOffset": 1032, "endOffset": 1084, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

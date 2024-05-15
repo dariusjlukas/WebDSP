@@ -1,0 +1,36 @@
+{
+  "scriptId": "1294",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/utils/noop.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 457, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "noBignumber",
+      "ranges": [{ "startOffset": 7, "endOffset": 95, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "noFraction",
+      "ranges": [{ "startOffset": 103, "endOffset": 189, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "noMatrix",
+      "ranges": [{ "startOffset": 197, "endOffset": 279, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "noIndex",
+      "ranges": [{ "startOffset": 287, "endOffset": 367, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "noSubset",
+      "ranges": [{ "startOffset": 375, "endOffset": 457, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

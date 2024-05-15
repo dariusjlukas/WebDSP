@@ -1,0 +1,31 @@
+{
+  "scriptId": "1333",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/plain/number/logical.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 365, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "notNumber",
+      "ranges": [{ "startOffset": 53, "endOffset": 91, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "orNumber",
+      "ranges": [{ "startOffset": 125, "endOffset": 173, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "xorNumber",
+      "ranges": [{ "startOffset": 206, "endOffset": 256, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "andNumber",
+      "ranges": [{ "startOffset": 290, "endOffset": 339, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

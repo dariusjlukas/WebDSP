@@ -1,0 +1,16 @@
+{
+  "scriptId": "353",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/error/ArgumentsError.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1012, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArgumentsError",
+      "ranges": [{ "startOffset": 373, "endOffset": 826, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

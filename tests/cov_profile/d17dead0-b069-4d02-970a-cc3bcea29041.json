@@ -1,0 +1,16 @@
+{
+  "scriptId": "1355",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/sparse/csDfs.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2485, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "csDfs",
+      "ranges": [{ "startOffset": 1006, "endOffset": 2485, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

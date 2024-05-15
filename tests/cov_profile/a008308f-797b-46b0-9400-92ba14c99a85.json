@@ -1,0 +1,30 @@
+{
+  "scriptId": "312",
+  "url": "file:///home/darius/dev/javascript/dspjs-deno/src/dsp-functions/fft.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 898, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ditfft2_rec",
+      "ranges": [
+        { "startOffset": 207, "endOffset": 642, "count": 1022 },
+        { "startOffset": 253, "endOffset": 289, "count": 512 },
+        { "startOffset": 289, "endOffset": 640, "count": 510 },
+        { "startOffset": 421, "endOffset": 622, "count": 2048 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ditfft2",
+      "ranges": [
+        { "startOffset": 650, "endOffset": 897, "count": 3 },
+        { "startOffset": 791, "endOffset": 851, "count": 1 },
+        { "startOffset": 851, "endOffset": 895, "count": 2 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

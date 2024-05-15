@@ -1,0 +1,41 @@
+{
+  "scriptId": "873",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/unit/function/createUnit.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3039, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 189, "endOffset": 3037, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ObjectObject",
+      "ranges": [{ "startOffset": 2177, "endOffset": 2264, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Object",
+      "ranges": [{ "startOffset": 2324, "endOffset": 2391, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stringUnitStringObjectObject",
+      "ranges": [{ "startOffset": 2485, "endOffset": 2637, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stringUnitStringObject",
+      "ranges": [{ "startOffset": 2723, "endOffset": 2855, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "string",
+      "ranges": [{ "startOffset": 2919, "endOffset": 3029, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

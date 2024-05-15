@@ -1,0 +1,51 @@
+{
+  "scriptId": "807",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/ones.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3699, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 346, "endOffset": 3697, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_",
+      "ranges": [{ "startOffset": 1551, "endOffset": 1646, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "numberBigNumberString",
+      "ranges": [{ "startOffset": 1834, "endOffset": 2161, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Matrix",
+      "ranges": [{ "startOffset": 2193, "endOffset": 2301, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ArrayMatrixString",
+      "ranges": [{ "startOffset": 2333, "endOffset": 2425, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_ones",
+      "ranges": [{ "startOffset": 2597, "endOffset": 3093, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_normalize",
+      "ranges": [{ "startOffset": 3177, "endOffset": 3430, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_validate",
+      "ranges": [{ "startOffset": 3458, "endOffset": 3695, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

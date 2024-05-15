@@ -1,0 +1,66 @@
+{
+  "scriptId": "963",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/statistics/quantileSeq.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6432, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 456, "endOffset": 6430, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Array | Matrix, number | BigNumber",
+      "ranges": [{ "startOffset": 2283, "endOffset": 2334, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array | Matrix, number | BigNumber, number",
+      "ranges": [{ "startOffset": 2386, "endOffset": 2470, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array | Matrix, number | BigNumber, boolean, number",
+      "ranges": [{ "startOffset": 2606, "endOffset": 2699, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array | Matrix, Array | Matrix",
+      "ranges": [{ "startOffset": 2739, "endOffset": 2794, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array | Matrix, Array | Matrix, number",
+      "ranges": [{ "startOffset": 2842, "endOffset": 2930, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Array | Matrix, Array | Matrix, boolean, number",
+      "ranges": [{ "startOffset": 3062, "endOffset": 3159, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_quantileSeqDim",
+      "ranges": [{ "startOffset": 3168, "endOffset": 3282, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_quantileSeqProbNumber",
+      "ranges": [{ "startOffset": 3285, "endOffset": 4438, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_quantileSeqProbCollection",
+      "ranges": [{ "startOffset": 4695, "endOffset": 5065, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_quantileSeq",
+      "ranges": [{ "startOffset": 5317, "endOffset": 6428, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

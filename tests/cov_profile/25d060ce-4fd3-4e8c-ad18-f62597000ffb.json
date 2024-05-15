@@ -1,0 +1,21 @@
+{
+  "scriptId": "977",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/combinatorics/stirlingS2.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2725, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 386, "endOffset": 2723, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "numberBigNumberNumberBigNumber",
+      "ranges": [{ "startOffset": 1534, "endOffset": 2715, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

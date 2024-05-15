@@ -1,0 +1,31 @@
+{
+  "scriptId": "861",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/relational/unequal.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3489, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 566, "endOffset": 2938, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_unequal",
+      "ranges": [{ "startOffset": 2876, "endOffset": 2936, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 3014, "endOffset": 3487, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "anyAny",
+      "ranges": [{ "startOffset": 3112, "endOffset": 3479, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

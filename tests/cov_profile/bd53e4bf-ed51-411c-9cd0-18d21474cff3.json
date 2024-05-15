@@ -1,0 +1,26 @@
+{
+  "scriptId": "1281",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/matrix/utils/matAlgo14xDs.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2252, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 235, "endOffset": 2250, "count": 46 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "matAlgo14xDs",
+      "ranges": [{ "startOffset": 912, "endOffset": 1643, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_iterate",
+      "ranges": [{ "startOffset": 1672, "endOffset": 2248, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "scriptId": "1340",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/escape-latex/1.2.0/dist/index.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 258, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "scriptId": "1272",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/utils/string.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 6155, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "endsWith",
+      "ranges": [{ "startOffset": 294, "endOffset": 445, "count": 191 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "format",
+      "ranges": [{ "startOffset": 1954, "endOffset": 2221, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_format",
+      "ranges": [{ "startOffset": 2222, "endOffset": 3590, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "stringify",
+      "ranges": [{ "startOffset": 3782, "endOffset": 4037, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "escape",
+      "ranges": [{ "startOffset": 4261, "endOffset": 4459, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "formatArray",
+      "ranges": [{ "startOffset": 4894, "endOffset": 5230, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "looksLikeFraction",
+      "ranges": [{ "startOffset": 5353, "endOffset": 5537, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "compareText",
+      "ranges": [{ "startOffset": 5640, "endOffset": 6155, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

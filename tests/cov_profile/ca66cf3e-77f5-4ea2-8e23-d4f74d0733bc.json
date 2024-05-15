@@ -1,0 +1,41 @@
+{
+  "scriptId": "1328",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/utils/bignumber/formatter.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 10218, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "formatBigNumberToBase",
+      "ranges": [{ "startOffset": 257, "endOffset": 1262, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "format",
+      "ranges": [{ "startOffset": 6249, "endOffset": 8375, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toEngineering",
+      "ranges": [{ "startOffset": 8592, "endOffset": 9164, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toExponential",
+      "ranges": [{ "startOffset": 9504, "endOffset": 9703, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toFixed",
+      "ranges": [{ "startOffset": 9945, "endOffset": 10018, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_toNumberOrDefault",
+      "ranges": [{ "startOffset": 10019, "endOffset": 10218, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

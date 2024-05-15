@@ -1,0 +1,16 @@
+{
+  "scriptId": "352",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/error/DimensionError.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1137, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DimensionError",
+      "ranges": [{ "startOffset": 421, "endOffset": 941, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

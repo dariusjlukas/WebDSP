@@ -1,0 +1,26 @@
+{
+  "scriptId": "794",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/concat.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3428, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 498, "endOffset": 3426, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ArrayMatrixNumberBigNumber",
+      "ranges": [{ "startOffset": 1542, "endOffset": 3342, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "string",
+      "ranges": [{ "startOffset": 3361, "endOffset": 3418, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

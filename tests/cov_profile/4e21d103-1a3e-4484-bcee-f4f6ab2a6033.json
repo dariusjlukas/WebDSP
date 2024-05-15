@@ -1,0 +1,226 @@
+{
+  "scriptId": "1359",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/fraction.js/4.3.4/fraction.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 20856, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 20855, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 194, "endOffset": 20791, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 1178, "endOffset": 20780, "count": 1 },
+        { "startOffset": 20733, "endOffset": 20777, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "assign",
+      "ranges": [{ "startOffset": 1615, "endOffset": 1737, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "newFraction",
+      "ranges": [{ "startOffset": 1822, "endOffset": 2091, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "factorize",
+      "ranges": [{ "startOffset": 2095, "endOffset": 2510, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "parse",
+      "ranges": [
+        { "startOffset": 2526, "endOffset": 7146, "count": 4 },
+        { "startOffset": 2739, "endOffset": 2763, "count": 0 },
+        { "startOffset": 2877, "endOffset": 2923, "count": 0 },
+        { "startOffset": 2930, "endOffset": 7004, "count": 0 },
+        { "startOffset": 7023, "endOffset": 7060, "count": 0 },
+        { "startOffset": 7081, "endOffset": 7085, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "modpow",
+      "ranges": [{ "startOffset": 7151, "endOffset": 7316, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cycleLen",
+      "ranges": [{ "startOffset": 7321, "endOffset": 8055, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cycleStart",
+      "ranges": [{ "startOffset": 8060, "endOffset": 8380, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "gcd",
+      "ranges": [
+        { "startOffset": 8384, "endOffset": 8578, "count": 4 },
+        { "startOffset": 8424, "endOffset": 8433, "count": 0 },
+        { "startOffset": 8452, "endOffset": 8461, "count": 0 },
+        { "startOffset": 8477, "endOffset": 8574, "count": 8 },
+        { "startOffset": 8514, "endOffset": 8559, "count": 4 },
+        { "startOffset": 8559, "endOffset": 8568, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Fraction",
+      "ranges": [
+        { "startOffset": 8699, "endOffset": 8990, "count": 4 },
+        { "startOffset": 8922, "endOffset": 8986, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "DivisionByZero",
+      "ranges": [{ "startOffset": 9015, "endOffset": 9067, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "InvalidParameter",
+      "ranges": [{ "startOffset": 9094, "endOffset": 9146, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "NonIntegerParameter",
+      "ranges": [{ "startOffset": 9176, "endOffset": 9238, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "abs",
+      "ranges": [{ "startOffset": 9415, "endOffset": 9482, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "neg",
+      "ranges": [{ "startOffset": 9607, "endOffset": 9687, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "add",
+      "ranges": [{ "startOffset": 9820, "endOffset": 9994, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sub",
+      "ranges": [{ "startOffset": 10133, "endOffset": 10307, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "mul",
+      "ranges": [{ "startOffset": 10442, "endOffset": 10595, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "div",
+      "ranges": [{ "startOffset": 10723, "endOffset": 10876, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "clone",
+      "ranges": [{ "startOffset": 10993, "endOffset": 11071, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "mod",
+      "ranges": [{ "startOffset": 11255, "endOffset": 12083, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "gcd",
+      "ranges": [{ "startOffset": 12227, "endOffset": 12417, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "lcm",
+      "ranges": [{ "startOffset": 12559, "endOffset": 12836, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ceil",
+      "ranges": [{ "startOffset": 12974, "endOffset": 13223, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "floor",
+      "ranges": [{ "startOffset": 13364, "endOffset": 13614, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "round",
+      "ranges": [{ "startOffset": 13739, "endOffset": 13989, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "inverse",
+      "ranges": [{ "startOffset": 14171, "endOffset": 14250, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "pow",
+      "ranges": [{ "startOffset": 14401, "endOffset": 16138, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "equals",
+      "ranges": [{ "startOffset": 16276, "endOffset": 16422, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "compare",
+      "ranges": [{ "startOffset": 16561, "endOffset": 16713, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "simplify",
+      "ranges": [{ "startOffset": 16732, "endOffset": 17266, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "divisible",
+      "ranges": [{ "startOffset": 17406, "endOffset": 17536, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "valueOf",
+      "ranges": [{ "startOffset": 17705, "endOffset": 17772, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toFraction",
+      "ranges": [{ "startOffset": 17947, "endOffset": 18378, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toLatex",
+      "ranges": [{ "startOffset": 18539, "endOffset": 18994, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toContinued",
+      "ranges": [{ "startOffset": 19150, "endOffset": 19457, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "toString",
+      "ranges": [{ "startOffset": 19636, "endOffset": 20509, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

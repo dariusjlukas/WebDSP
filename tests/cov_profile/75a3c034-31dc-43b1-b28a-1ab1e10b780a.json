@@ -1,0 +1,36 @@
+{
+  "scriptId": "769",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/arithmetic/lcm.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3101, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 592, "endOffset": 3099, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1209, "endOffset": 1362, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1217, "endOffset": 1362, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Fraction, Fraction",
+      "ranges": [{ "startOffset": 2277, "endOffset": 2295, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_lcmBigNumber",
+      "ranges": [{ "startOffset": 2608, "endOffset": 3097, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

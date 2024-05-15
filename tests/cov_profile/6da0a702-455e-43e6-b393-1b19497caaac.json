@@ -1,0 +1,31 @@
+{
+  "scriptId": "968",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/probability/gamma.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3677, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 302, "endOffset": 3675, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "gammaComplex",
+      "ranges": [{ "startOffset": 1163, "endOffset": 2569, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "BigNumber",
+      "ranges": [{ "startOffset": 2660, "endOffset": 2975, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "bigFactorial",
+      "ranges": [{ "startOffset": 3117, "endOffset": 3673, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

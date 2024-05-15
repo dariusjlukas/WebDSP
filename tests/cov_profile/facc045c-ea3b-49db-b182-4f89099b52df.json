@@ -1,0 +1,21 @@
+{
+  "scriptId": "1346",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/sparse/csSpsolve.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2906, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 250, "endOffset": 2904, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "csSpsolve",
+      "ranges": [{ "startOffset": 1507, "endOffset": 2901, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

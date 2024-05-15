@@ -1,0 +1,21 @@
+{
+  "scriptId": "888",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/trigonometry/cosh.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 901, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 226, "endOffset": 899, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Complex | BigNumber",
+      "ranges": [{ "startOffset": 878, "endOffset": 891, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

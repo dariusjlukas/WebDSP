@@ -1,0 +1,96 @@
+{
+  "scriptId": "822",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/numeric/solveODE.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 11712, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ownKeys",
+      "ranges": [{ "startOffset": 69, "endOffset": 324, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_objectSpread",
+      "ranges": [{ "startOffset": 325, "endOffset": 764, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1154, "endOffset": 11710, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_rk",
+      "ranges": [{ "startOffset": 3671, "endOffset": 7693, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_rk23",
+      "ranges": [{ "startOffset": 7696, "endOffset": 8155, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_rk45",
+      "ranges": [{ "startOffset": 8158, "endOffset": 8918, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_solveODE",
+      "ranges": [{ "startOffset": 8921, "endOffset": 9840, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_createOngoing",
+      "ranges": [{ "startOffset": 9843, "endOffset": 9994, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_createTrimStep",
+      "ranges": [{ "startOffset": 9997, "endOffset": 10218, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isNumOrBig",
+      "ranges": [{ "startOffset": 10221, "endOffset": 10335, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_matrixSolveODE",
+      "ranges": [{ "startOffset": 10338, "endOffset": 10564, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "function, Array, Array",
+      "ranges": [{ "startOffset": 10730, "endOffset": 10767, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "function, Matrix, Matrix",
+      "ranges": [{ "startOffset": 10801, "endOffset": 10844, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "function, Array, number | BigNumber | Unit",
+      "ranges": [{ "startOffset": 10896, "endOffset": 11034, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "function, Matrix, number | BigNumber | Unit",
+      "ranges": [{ "startOffset": 11087, "endOffset": 11251, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "function, Array, number | BigNumber | Unit, Object",
+      "ranges": [{ "startOffset": 11311, "endOffset": 11463, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "function, Matrix, number | BigNumber | Unit, Object",
+      "ranges": [{ "startOffset": 11524, "endOffset": 11702, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

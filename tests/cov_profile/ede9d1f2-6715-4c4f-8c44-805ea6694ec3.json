@@ -1,0 +1,41 @@
+{
+  "scriptId": "726",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/resultset/ResultSet.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1765, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [{ "startOffset": 169, "endOffset": 1742, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "ResultSet",
+      "ranges": [{ "startOffset": 313, "endOffset": 507, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ResultSet.valueOf",
+      "ranges": [{ "startOffset": 793, "endOffset": 835, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ResultSet.toString",
+      "ranges": [{ "startOffset": 992, "endOffset": 1057, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ResultSet.toJSON",
+      "ranges": [{ "startOffset": 1303, "endOffset": 1395, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "ResultSet.fromJSON",
+      "ranges": [{ "startOffset": 1658, "endOffset": 1719, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

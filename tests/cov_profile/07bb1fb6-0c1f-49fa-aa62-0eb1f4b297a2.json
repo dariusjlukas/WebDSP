@@ -1,0 +1,56 @@
+{
+  "scriptId": "934",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/Parser.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4479, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "factory.isClass",
+      "ranges": [{ "startOffset": 235, "endOffset": 4456, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Parser",
+      "ranges": [{ "startOffset": 2413, "endOffset": 2664, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Parser.evaluate",
+      "ranges": [{ "startOffset": 3130, "endOffset": 3222, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Parser.get",
+      "ranges": [{ "startOffset": 3438, "endOffset": 3564, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Parser.getAll",
+      "ranges": [{ "startOffset": 3678, "endOffset": 3728, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Parser.getAllAsMap",
+      "ranges": [{ "startOffset": 3844, "endOffset": 3884, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Parser.set",
+      "ranges": [{ "startOffset": 4059, "endOffset": 4138, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Parser.remove",
+      "ranges": [{ "startOffset": 4253, "endOffset": 4303, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Parser.clear",
+      "ranges": [{ "startOffset": 4395, "endOffset": 4436, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

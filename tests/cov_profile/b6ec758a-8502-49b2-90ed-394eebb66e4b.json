@@ -1,0 +1,31 @@
+{
+  "scriptId": "945",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/det.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 4386, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 385, "endOffset": 4384, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "any",
+      "ranges": [{ "startOffset": 983, "endOffset": 1029, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "det",
+      "ranges": [{ "startOffset": 1053, "endOffset": 2365, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_det",
+      "ranges": [{ "startOffset": 2681, "endOffset": 4382, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

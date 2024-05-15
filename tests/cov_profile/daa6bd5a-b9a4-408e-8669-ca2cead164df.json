@@ -1,0 +1,11 @@
+{
+  "scriptId": "1138",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/embeddedDocs/function/matrix/count.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 274, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

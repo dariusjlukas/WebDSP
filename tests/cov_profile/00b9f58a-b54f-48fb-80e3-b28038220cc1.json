@@ -1,0 +1,76 @@
+{
+  "scriptId": "956",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/geometry/intersect.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 8549, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 341, "endOffset": 8547, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "MatrixMatrixMatrix",
+      "ranges": [{ "startOffset": 2151, "endOffset": 2312, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "MatrixMatrixMatrixMatrix",
+      "ranges": [{ "startOffset": 2352, "endOffset": 2593, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_AAA",
+      "ranges": [{ "startOffset": 2602, "endOffset": 3163, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_AAAA",
+      "ranges": [{ "startOffset": 3166, "endOffset": 4584, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_coerceArr",
+      "ranges": [{ "startOffset": 4647, "endOffset": 4917, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_2d",
+      "ranges": [{ "startOffset": 4920, "endOffset": 5006, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_3d",
+      "ranges": [{ "startOffset": 5009, "endOffset": 5114, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_4d",
+      "ranges": [{ "startOffset": 5117, "endOffset": 5241, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_intersect2d",
+      "ranges": [{ "startOffset": 5244, "endOffset": 5898, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_intersect3dHelper",
+      "ranges": [{ "startOffset": 5901, "endOffset": 6269, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_intersect3d",
+      "ranges": [{ "startOffset": 6272, "endOffset": 7674, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_intersectLinePlane",
+      "ranges": [{ "startOffset": 7677, "endOffset": 8545, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

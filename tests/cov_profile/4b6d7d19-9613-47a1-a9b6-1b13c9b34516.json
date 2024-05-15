@@ -1,0 +1,11 @@
+{
+  "scriptId": "1271",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/fraction.js/4.3.4/fraction.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 255, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

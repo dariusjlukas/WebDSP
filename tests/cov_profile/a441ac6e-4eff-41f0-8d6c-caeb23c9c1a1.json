@@ -1,0 +1,21 @@
+{
+  "scriptId": "1280",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/matrix/utils/matAlgo12xSfs.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2869, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 202, "endOffset": 2867, "count": 23 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "matAlgo12xSfs",
+      "ranges": [{ "startOffset": 976, "endOffset": 2864, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "scriptId": "1321",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/algebra/simplify/wildcards.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 770, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isNumericNode",
+      "ranges": [{ "startOffset": 200, "endOffset": 322, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isConstantExpression",
+      "ranges": [{ "startOffset": 330, "endOffset": 770, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

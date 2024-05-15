@@ -1,0 +1,31 @@
+{
+  "scriptId": "913",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/trace.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 3306, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 280, "endOffset": 3304, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_arrayTrace",
+      "ranges": [{ "startOffset": 879, "endOffset": 988, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_denseTrace",
+      "ranges": [{ "startOffset": 1075, "endOffset": 2099, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_sparseTrace",
+      "ranges": [{ "startOffset": 2102, "endOffset": 3302, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

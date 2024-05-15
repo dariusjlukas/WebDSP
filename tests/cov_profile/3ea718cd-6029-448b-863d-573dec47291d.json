@@ -1,0 +1,11 @@
+{
+  "scriptId": "1259",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/expression/embeddedDocs/function/utils/isPositive.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 330, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

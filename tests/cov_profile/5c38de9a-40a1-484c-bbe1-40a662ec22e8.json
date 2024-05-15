@@ -1,0 +1,31 @@
+{
+  "scriptId": "1339",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/type/matrix/utils/broadcast.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2472, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 246, "endOffset": 2470, "count": 33 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 571, "endOffset": 2042, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_padLeft",
+      "ranges": [{ "startOffset": 2046, "endOffset": 2248, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "_stretch",
+      "ranges": [{ "startOffset": 2251, "endOffset": 2468, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

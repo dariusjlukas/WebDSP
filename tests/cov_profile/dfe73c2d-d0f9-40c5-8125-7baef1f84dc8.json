@@ -1,0 +1,136 @@
+{
+  "scriptId": "1336",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/plain/number/trigonometry.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2610, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "acosNumber",
+      "ranges": [{ "startOffset": 138, "endOffset": 187, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "acoshNumber",
+      "ranges": [{ "startOffset": 222, "endOffset": 268, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "acotNumber",
+      "ranges": [{ "startOffset": 304, "endOffset": 357, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "acothNumber",
+      "ranges": [{ "startOffset": 392, "endOffset": 499, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "acscNumber",
+      "ranges": [{ "startOffset": 535, "endOffset": 588, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "acschNumber",
+      "ranges": [{ "startOffset": 623, "endOffset": 724, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "asecNumber",
+      "ranges": [{ "startOffset": 760, "endOffset": 813, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "asechNumber",
+      "ranges": [{ "startOffset": 848, "endOffset": 966, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "asinNumber",
+      "ranges": [{ "startOffset": 1002, "endOffset": 1051, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "asinhNumber",
+      "ranges": [{ "startOffset": 1086, "endOffset": 1132, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "atanNumber",
+      "ranges": [{ "startOffset": 1168, "endOffset": 1217, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "atan2Number",
+      "ranges": [{ "startOffset": 1252, "endOffset": 1309, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "atanhNumber",
+      "ranges": [{ "startOffset": 1345, "endOffset": 1391, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cosNumber",
+      "ranges": [{ "startOffset": 1427, "endOffset": 1474, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "coshNumber",
+      "ranges": [{ "startOffset": 1508, "endOffset": 1552, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cotNumber",
+      "ranges": [{ "startOffset": 1587, "endOffset": 1638, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cothNumber",
+      "ranges": [{ "startOffset": 1672, "endOffset": 1753, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cscNumber",
+      "ranges": [{ "startOffset": 1788, "endOffset": 1839, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "cschNumber",
+      "ranges": [{ "startOffset": 1873, "endOffset": 2074, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "secNumber",
+      "ranges": [{ "startOffset": 2109, "endOffset": 2160, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sechNumber",
+      "ranges": [{ "startOffset": 2194, "endOffset": 2263, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sinNumber",
+      "ranges": [{ "startOffset": 2298, "endOffset": 2345, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sinhNumber",
+      "ranges": [{ "startOffset": 2379, "endOffset": 2423, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "tanNumber",
+      "ranges": [{ "startOffset": 2458, "endOffset": 2505, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "tanhNumber",
+      "ranges": [{ "startOffset": 2539, "endOffset": 2583, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

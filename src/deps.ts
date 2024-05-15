@@ -1,0 +1,16 @@
+export {
+	add,
+	type Complex,
+	complex,
+	conj,
+	divide,
+	exp,
+	type MathNumericType,
+	type Matrix,
+	multiply,
+	pi,
+	sin,
+	size,
+	subtract,
+	zeros,
+} from 'npm:mathjs@^12.3.2';

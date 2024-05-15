@@ -1,0 +1,29 @@
+{
+  "scriptId": "1319",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/probability/util/seededRNG.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 536, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createRng",
+      "ranges": [{ "startOffset": 105, "endOffset": 536, "count": 3 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "setSeed",
+      "ranges": [
+        { "startOffset": 206, "endOffset": 307, "count": 3 },
+        { "startOffset": 276, "endOffset": 302, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "rng",
+      "ranges": [{ "startOffset": 479, "endOffset": 520, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

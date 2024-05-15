@@ -1,0 +1,39 @@
+{
+  "scriptId": "1362",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/@babel/runtime/7.23.9/helpers/typeof.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 857, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 1, "endOffset": 856, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 194, "endOffset": 792, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "_typeof",
+      "ranges": [
+        { "startOffset": 254, "endOffset": 686, "count": 32 },
+        { "startOffset": 451, "endOffset": 592, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "module.exports._typeof",
+      "ranges": [{ "startOffset": 411, "endOffset": 450, "count": 32 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "module.exports._typeof",
+      "ranges": [{ "startOffset": 453, "endOffset": 592, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

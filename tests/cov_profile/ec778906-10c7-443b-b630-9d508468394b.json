@@ -1,0 +1,76 @@
+{
+  "scriptId": "1315",
+  "url": "file:///home/darius/.cache/deno/npm/registry.npmjs.org/mathjs/12.4.0/lib/esm/function/matrix/eigs/realSymmetric.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 7961, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "createRealSymmetric",
+      "ranges": [{ "startOffset": 57, "endOffset": 7961, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "main",
+      "ranges": [{ "startOffset": 404, "endOffset": 891, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "diag",
+      "ranges": [{ "startOffset": 954, "endOffset": 1765, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "diagBig",
+      "ranges": [{ "startOffset": 1819, "endOffset": 2677, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getTheta",
+      "ranges": [{ "startOffset": 2696, "endOffset": 2908, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getThetaBig",
+      "ranges": [{ "startOffset": 2927, "endOffset": 3177, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Sij1",
+      "ranges": [{ "startOffset": 3200, "endOffset": 3630, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "Sij1Big",
+      "ranges": [{ "startOffset": 3664, "endOffset": 4195, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "x1Big",
+      "ranges": [{ "startOffset": 4218, "endOffset": 5377, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "x1",
+      "ranges": [{ "startOffset": 5400, "endOffset": 6269, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getAij",
+      "ranges": [{ "startOffset": 6325, "endOffset": 6665, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getAijBig",
+      "ranges": [{ "startOffset": 6721, "endOffset": 7049, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "sorting",
+      "ranges": [{ "startOffset": 7071, "endOffset": 7944, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}
